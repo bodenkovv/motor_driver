@@ -1,0 +1,441 @@
+Інформація: Обробка символу 'C1:CAPPM7344X310N'.
+Інформація: Обробка символу 'C43:GCM21'.
+Інформація: Обробка символу 'R15:RES_BR3_STP'.
+Інформація: Обробка символу 'C2:CAPC4532X180N'.
+Інформація: Обробка символу 'R16:RESC1005X40N'.
+Інформація: Обробка символу 'C44:GCM21'.
+Інформація: Обробка символу 'C3:GCM21'.
+Інформація: Обробка символу 'H3:MountingHole:MountingHole_3.2mm_M3'.
+Інформація: Обробка символу 'R17:RESC1005X40N'.
+Інформація: Обробка символу 'C4:GCM31C5C2E183FX03L'.
+Інформація: Обробка символу 'C45:CAPC4532X180N'.
+Інформація: Обробка символу 'R18:RESC1005X40N'.
+Інформація: Обробка символу 'C5:GCM31C5C2E183FX03L'.
+Інформація: Обробка символу 'R19:mouser:RESC1608X50N'.
+Інформація: Обробка символу 'R20:mouser:RESC1608X50N'.
+Інформація: Обробка символу 'C6:CAPC4532X180N'.
+Інформація: Обробка символу 'R21:RESC1608X50N'.
+Інформація: Обробка символу 'C46:CAPC1608X90N'.
+Інформація: Обробка символу 'C7:CAPC4532X180N'.
+Інформація: Обробка символу 'R22:mouser:RESC1608X50N'.
+Інформація: Обробка символу 'R23:RESC1608X50N'.
+Інформація: Обробка символу 'C8:CAPC4532X180N'.
+Інформація: Обробка символу 'R24:RESC1608X50N'.
+Інформація: Обробка символу 'R25:MCS04020C1003FE000'.
+Інформація: Обробка символу 'C9:CAPPRD500W60D1050H1750'.
+Інформація: Обробка символу 'D1:'.
+Інформація: Обробка символу 'R26:ERJS08_U08_(1206)'.
+Інформація: Обробка символу 'D2:Package_TO_SOT_SMD:Nexperia_CFP15_SOT-1289'.
+Інформація: Обробка символу 'C10:CAPPRD500W60D1050H1750'.
+Інформація: Обробка символу 'R27:MCS04020C1003FE000'.
+Інформація: Обробка символу 'S1:TL1220R2BBBRRESET'.
+Інформація: Обробка символу 'SW1:'.
+Інформація: Обробка символу 'C11:CAPC1005X61N'.
+Інформація: Обробка символу 'TP1:Connector_Pin:Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork'.
+Інформація: Обробка символу 'D3:Package_TO_SOT_SMD:Nexperia_CFP15_SOT-1289'.
+Інформація: Обробка символу 'TP2:Connector_Pin:Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork'.
+Інформація: Обробка символу 'C12:CAPC1608X90N'.
+Інформація: Обробка символу 'TP3:Connector_Pin:Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork'.
+Інформація: Обробка символу 'D4:Package_TO_SOT_SMD:Nexperia_CFP15_SOT-1289'.
+Інформація: Обробка символу 'TP5:Connector_Pin:Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork'.
+Інформація: Обробка символу 'C13:CAPC1608X90N'.
+Інформація: Обробка символу 'TP6:Connector_Pin:Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork'.
+Інформація: Обробка символу 'C24:CAPC1608X80N'.
+Інформація: Обробка символу 'D5:Package_TO_SOT_SMD:Nexperia_CFP15_SOT-1289'.
+Інформація: Обробка символу 'TP7:Connector_Pin:Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork'.
+Інформація: Обробка символу 'C14:CAPC4532X180N'.
+Інформація: Обробка символу 'TP8:Connector_Pin:Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork'.
+Інформація: Обробка символу 'C15:CAPC4532X180N'.
+Інформація: Обробка символу 'D6:DIOM7959X262N'.
+Інформація: Обробка символу 'TP9:Connector_Pin:Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork'.
+Інформація: Обробка символу 'C16:CAPC4532X180N'.
+Інформація: Обробка символу 'D7:DIOM5126X250N'.
+Інформація: Обробка символу 'TP10:Connector_Pin:Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork'.
+Інформація: Обробка символу 'C17:EXFSHR1000PF163V'.
+Інформація: Обробка символу 'C35:CAPC1608X90N'.
+Інформація: Обробка символу 'D8:DIOM5436X244N'.
+Інформація: Обробка символу 'TP11:Connector_Pin:Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork'.
+Інформація: Обробка символу 'C18:EXFSHR1000PF163V'.
+Інформація: Обробка символу 'F1:RGEF500'.
+Інформація: Обробка символу 'U1:'.
+Інформація: Обробка символу 'FB1:'.
+Інформація: Обробка символу 'U2:Package_QFP:LQFP-64_10x10mm_P0.5mm'.
+Інформація: Обробка символу 'C19:EXFSHR1000PF163V'.
+Інформація: Обробка символу 'FB2:BLM18SP221SN1B'.
+Інформація: Обробка символу 'Y1:LFXTAL072100REEL'.
+Інформація: Обробка символу 'H1:MountingHole:MountingHole_3.2mm_M3'.
+Інформація: Обробка символу 'H2:MountingHole:MountingHole_3.2mm_M3'.
+Інформація: Обробка символу 'C20:CAPC1608X90N'.
+Інформація: Обробка символу 'Q3:IRFR7546TRPBF'.
+Інформація: Обробка символу 'H4:MountingHole:MountingHole_3.2mm_M3'.
+Інформація: Обробка символу 'IC1:QFP50P900X900X120-48N'.
+Інформація: Обробка символу 'J1:HDRV1W100P100X300_1X1_100X100X100P'.
+Інформація: Обробка символу 'C21:CAPC1608X90N'.
+Інформація: Обробка символу 'J2:HDRV3W66P0X254_1X3_762X229X838P'.
+Інформація: Обробка символу 'J3:1792892'.
+Інформація: Обробка символу 'J4:XT30PWM'.
+Інформація: Обробка символу 'L1:INDPM120120X1020N'.
+Інформація: Обробка символу 'C22:CAPC1608X90N'.
+Інформація: Обробка символу 'NT1:'.
+Інформація: Обробка символу 'NT2:NetTie:NetTie-2_SMD_Pad0.5mm'.
+Інформація: Обробка символу 'NT3:NetTie:NetTie-2_SMD_Pad0.5mm'.
+Інформація: Обробка символу 'NT5:NetTie:NetTie-2_SMD_Pad0.5mm'.
+Інформація: Обробка символу 'C23:mouser:CAPC1608X80N'.
+Інформація: Обробка символу 'NT6:'.
+Інформація: Обробка символу 'NT7:'.
+Інформація: Обробка символу 'PS1:SOT95P280X110-6N'.
+Інформація: Обробка символу 'Q1:IRFR7546TRPBF'.
+Інформація: Обробка символу 'C25:CAPC1608X80N'.
+Інформація: Обробка символу 'Q2:IRFR7546TRPBF'.
+Інформація: Обробка символу 'Q4:IRFR7546TRPBF'.
+Інформація: Обробка символу 'C26:CAPC1608X90N'.
+Інформація: Обробка символу 'Q5:IRFR7546TRPBF'.
+Інформація: Обробка символу 'C27:CAPC1608X90N'.
+Інформація: Обробка символу 'Q6:IRFR7546TRPBF'.
+Інформація: Обробка символу 'C28:CAPC3225X230N'.
+Інформація: Обробка символу 'R1:ERJS14_U14_(1210)'.
+Інформація: Обробка символу 'C29:CAPPM3216X180N'.
+Інформація: Обробка символу 'R2:MCS04020C1003FE000'.
+Інформація: Обробка символу 'C30:CAPPM3216X180N'.
+Інформація: Обробка символу 'R3:ERJS08_U08_(1206)'.
+Інформація: Обробка символу 'C31:CAPC2114X95N'.
+Інформація: Обробка символу 'R4:MCS04020C1003FE000'.
+Інформація: Обробка символу 'C32:CAPC1005X70N'.
+Інформація: Обробка символу 'R5:MCS04020C1003FE000'.
+Інформація: Обробка символу 'C33:CAPC1608X90N'.
+Інформація: Обробка символу 'R6:MCS04020C1003FE000'.
+Інформація: Обробка символу 'C34:CAPC1608X90N'.
+Інформація: Обробка символу 'R7:MCS04020C1003FE000'.
+Інформація: Обробка символу 'R8:RESC2012X60N'.
+Інформація: Обробка символу 'R9:RESC2012X60N'.
+Інформація: Обробка символу 'C36:CAPC1608X90N'.
+Інформація: Обробка символу 'R10:RESC2012X60N'.
+Інформація: Обробка символу 'C37:CAPC3225X230N'.
+Інформація: Обробка символу 'R11:RESC2012X60N'.
+Інформація: Обробка символу 'C38:CAPC1608X90N'.
+Інформація: Обробка символу 'R12:RESC2012X60N'.
+Інформація: Обробка символу 'C39:CAPC1608X90N'.
+Інформація: Обробка символу 'R13:RES_BR3_STP'.
+Інформація: Обробка символу 'C40:Capacitor_SMD:C_01005_0402Metric'.
+Інформація: Обробка символу 'C41:CAPC1005X55N'.
+Інформація: Обробка символу 'R14:RES_BR3_STP'.
+Інформація: Обробка символу 'C42:mouser:CAPC1005X55N'.
+Повторно під'єднати IC1, вивід 10 з /DRV8305/SDI (SPI) до /Controller (MCU)/SPI1 MOSI.
+Оновіть назву аркуша C1 на '/DRV8305 (DRV)/'.
+Оновіть назву аркуша IC1 на '/DRV8305 (DRV)/'.
+Оновіть назву аркуша C2 на '/DRV8305 (DRV)/'.
+Звʼязок додано /DRV8305 (DRV)/INLA.
+Оновіть назву аркуша C3 на '/DRV8305 (DRV)/'.
+Повторно під'єднати IC1, вивід 3 з /DRV8305/INLA до /DRV8305 (DRV)/INLA.
+Оновіть назву аркуша C4 на '/DRV8305 (DRV)/'.
+Звʼязок додано /Controller (MCU)/ADC2_IN1.
+Оновіть назву аркуша C5 на '/DRV8305 (DRV)/'.
+Повторно під'єднати IC1, вивід 17 з /DRV8305/BSENSE (ADC) до /Controller (MCU)/ADC2_IN1.
+Оновіть назву аркуша C6 на '/DRV8305 (DRV)/'.
+Звʼязок додано /DRV8305 (DRV)/INLC.
+Оновіть назву аркуша C7 на '/DRV8305 (DRV)/'.
+Повторно під'єднати IC1, вивід 7 з /DRV8305/INLC до /DRV8305 (DRV)/INLC.
+Оновіть назву аркуша C8 на '/DRV8305 (DRV)/'.
+Повторно під'єднати IC1, вивід 23 з /DRV8305/SN1 до /DRV8305 (DRV)/SN1.
+Оновіть назву аркуша C9 на '/DRV8305 (DRV)/'.
+Повторно під'єднати C9, вивід 1 з PVDD до PVDD 12V.
+Повторно під'єднати IC1, вивід 21 з /DRV8305/SN2 до /DRV8305 (DRV)/SN2.
+Оновіть назву аркуша C10 на '/DRV8305 (DRV)/'.
+Повторно під'єднати C10, вивід 1 з PVDD до PVDD 12V.
+Звʼязок додано /DRV8305 (DRV)/SH_A.
+Оновіть назву аркуша C11 на '/DRV8305 (DRV)/'.
+Повторно під'єднати C11, вивід 2 з PVDD до PVDD 12V.
+Повторно під'єднати IC1, вивід 35 з /DRV8305/SH_A до /DRV8305 (DRV)/SH_A.
+Оновіть назву аркуша C12 на '/DRV8305 (DRV)/'.
+Повторно під'єднати C12, вивід 2 з PVDD до PVDD 12V.
+Звʼязок додано /DRV8305 (DRV)/SL_B.
+Звʼязок додано /DRV8305 (DRV)/PVDDSENSE.
+Повторно під'єднати C13, вивід 2 з /DRV8305/PVDDSENSE до /DRV8305 (DRV)/PVDDSENSE.
+Повторно під'єднати IC1, вивід 31 з /DRV8305/SL_B до /DRV8305 (DRV)/SL_B.
+Звʼязок додано /DRV8305 (DRV)/SL_C.
+Змінити позначення C16 на C15.
+Повторно під'єднати IC1, вивід 26 з /DRV8305/SL_C до /DRV8305 (DRV)/SL_C.
+Змінити позначення C15 на C16.
+Звʼязок додано /DRV8305 (DRV)/SN1.
+Повторно під'єднати C17, вивід 2 з /DRV8305/SN1 до /DRV8305 (DRV)/SN1.
+Звʼязок додано /DRV8305 (DRV)/GL_B.
+Змінити позначення C19 на C18.
+Звʼязок додано /DRV8305 (DRV)/SN3.
+Повторно під'єднати C19, вивід 2 з /DRV8305/SN3 до /DRV8305 (DRV)/SN3.
+Повторно під'єднати IC1, вивід 32 з /DRV8305/GL_B до /DRV8305 (DRV)/GL_B.
+Змінити позначення C18 на C19.
+Звʼязок додано /DRV8305 (DRV)/SN2.
+Повторно під'єднати C18, вивід 2 з /DRV8305/SN2 до /DRV8305 (DRV)/SN2.
+Звʼязок додано /DRV8305 (DRV)/GH_B.
+Змінити позначення C21 на C20.
+Звʼязок додано /Controller (MCU)/CSENSE (ADC3_IN13).
+Повторно під'єднати C21, вивід 2 з /Power Switches (ADC)/CSENSE (SO3) до /Controller (MCU)/CSENSE (ADC3_IN13).
+Повторно під'єднати IC1, вивід 29 з /DRV8305/GH_B до /DRV8305 (DRV)/GH_B.
+Змінити позначення C22 на C21.
+Звʼязок додано /Controller (MCU)/ASENSE (ADC1_IN11).
+Повторно під'єднати C22, вивід 2 з /Power Switches (ADC)/ASENSE (SO1) до /Controller (MCU)/ASENSE (ADC1_IN11).
+Звʼязок додано unconnected-(IC1-INHC-Pad6).
+Змінити позначення C20 на C22.
+Звʼязок додано /Controller (MCU)/BSENSE (ADC2_IN12).
+Повторно під'єднати C20, вивід 2 з /Power Switches (ADC)/BSENSE (SO2) до /Controller (MCU)/BSENSE (ADC2_IN12).
+Повторно під'єднати C23, вивід 1 з GNDREF до +12V.
+Оновіть назву аркуша C13 на '/DRV8305 (DRV)/'.
+Повторно під'єднати IC1, вивід 6 з /DRV8305/INHC до unconnected-(IC1-INHC-Pad6).
+Повторно під'єднати C24, вивід 1 з GNDREF до +12V.
+Звʼязок додано /Controller (MCU)/SPI1 SCK.
+Повторно під'єднати C25, вивід 1 з GNDREF до +12V.
+Повторно під'єднати IC1, вивід 12 з /DRV8305/SCLK (SPI) до /Controller (MCU)/SPI1 SCK.
+Звʼязок додано /Controller (MCU)/ADC3_IN2.
+Повторно під'єднати IC1, вивід 18 з /DRV8305/CSENSE (ADC) до /Controller (MCU)/ADC3_IN2.
+Звʼязок додано /DRV8305 (DRV)/GL_A.
+Повторно під'єднати IC1, вивід 33 з /DRV8305/GL_A до /DRV8305 (DRV)/GL_A.
+Звʼязок додано /DRV8305 (DRV)/GH_A.
+Повторно під'єднати IC1, вивід 36 з /DRV8305/GH_A до /DRV8305 (DRV)/GH_A.
+Звʼязок додано /DRV8305 (DRV)/GL_C.
+Повторно під'єднати IC1, вивід 25 з /DRV8305/GL_C до /DRV8305 (DRV)/GL_C.
+Звʼязок додано unconnected-(IC1-INHA-Pad2).
+Повторно під'єднати IC1, вивід 2 з /DRV8305/INHA до unconnected-(IC1-INHA-Pad2).
+Звʼязок додано /DRV8305 (DRV)/SH_C.
+Повторно під'єднати IC1, вивід 27 з /DRV8305/SH_C до /DRV8305 (DRV)/SH_C.
+Звʼязок додано /Controller (MCU)/SPI1 MISO.
+Повторно під'єднати IC1, вивід 11 з /DRV8305/SDO (SPI) до /Controller (MCU)/SPI1 MISO.
+Звʼязок додано /DRV8305 (DRV)/GPIO.
+Повторно під'єднати IC1, вивід 1 з /DRV8305/GPIO до /DRV8305 (DRV)/GPIO.
+Додано C43 (посадкове місце 'GCM21').
+Додано C44 (посадкове місце 'GCM21').
+Повторно під'єднати IC1, вивід 5 з /DRV8305/INLB до /DRV8305 (DRV)/INLB.
+Змінити позначення C44 на C45.
+Повторно під'єднати C44, вивід 1 з +12V до +3.3V.
+Повторно під'єднати C44, вивід 2 з +3.3V до +12V.
+Звʼязок додано /DRV8305 (DRV)/NSCS (SPI).
+Змінити позначення C43 на C46.
+Повторно під'єднати C43, вивід 1 з +12V до +3.3V.
+Повторно під'єднати C43, вивід 2 з Net-(C43-Pad2) до +12V.
+Повторно під'єднати IC1, вивід 19 з /DRV8305/SN3 до /DRV8305 (DRV)/SN3.
+Оновіть назву аркуша D2 на '/DRV8305 (DRV)/'.
+Повторно під'єднати D2, вивід 1 з /DRV8305/PVDDSENSE до /DRV8305 (DRV)/PVDDSENSE.
+Повторно під'єднати D2, вивід 2 з /DRV8305/PVDDSENSE до /DRV8305 (DRV)/PVDDSENSE.
+Повторно під'єднати D2, вивід 3 з VCC до VCC 3,3V.
+Повторно під'єднати D3, вивід 2 з /Power Switches (ADC)/ASENSE (SO1) до /Controller (MCU)/ASENSE (ADC1_IN11).
+Повторно під'єднати D3, вивід 1 з /Power Switches (ADC)/ASENSE (SO1) до /Controller (MCU)/ASENSE (ADC1_IN11).
+Повторно під'єднати D4, вивід 1 з /Power Switches (ADC)/CSENSE (SO3) до /Controller (MCU)/CSENSE (ADC3_IN13).
+Повторно під'єднати D4, вивід 2 з /Power Switches (ADC)/CSENSE (SO3) до /Controller (MCU)/CSENSE (ADC3_IN13).
+Повторно під'єднати D5, вивід 1 з /Power Switches (ADC)/BSENSE (SO2) до /Controller (MCU)/BSENSE (ADC2_IN12).
+Повторно під'єднати D5, вивід 2 з /Power Switches (ADC)/BSENSE (SO2) до /Controller (MCU)/BSENSE (ADC2_IN12).
+Повторно під'єднати IC1, вивід 9 з /DRV8305/NSCS (SPI) до /DRV8305 (DRV)/NSCS (SPI).
+Звʼязок додано unconnected-(IC1-INHB-Pad4).
+Повторно під'єднати IC1, вивід 4 з /DRV8305/INHB до unconnected-(IC1-INHB-Pad4).
+Звʼязок додано /Controller (MCU)/SPI1 MOSI.
+Повторно під'єднати IC1, вивід 28 з /DRV8305/GH_C до /DRV8305 (DRV)/GH_C.
+Звʼязок додано /DRV8305 (DRV)/GH_C.
+Оновіть назву аркуша R2 на '/DRV8305 (DRV)/'.
+Повторно під'єднати R2, вивід 1 з /DRV8305/GPIO (PE4) до /DRV8305 (DRV)/GPIO (PE4).
+Звʼязок додано /DRV8305 (DRV)/SH_B.
+Повторно під'єднати IC1, вивід 30 з /DRV8305/SH_B до /DRV8305 (DRV)/SH_B.
+Оновіть назву аркуша R4 на '/DRV8305 (DRV)/'.
+Повторно під'єднати R4, вивід 2 з /DRV8305/NSCS (SPI) до /DRV8305 (DRV)/NSCS (SPI).
+Звʼязок додано /Controller (MCU)/ADC1_IN0.
+Оновіть назву аркуша R5 на '/DRV8305 (DRV)/'.
+Повторно під'єднати R5, вивід 2 з /DRV8305/SDI (SPI) до /Controller (MCU)/SPI1 MOSI.
+Повторно під'єднати NT2, вивід 1 з /DRV8305/CSENSE (ADC) до /Controller (MCU)/ADC2_IN1.
+Оновіть назву аркуша R6 на '/DRV8305 (DRV)/'.
+Повторно під'єднати R6, вивід 2 з /DRV8305/SCLK (SPI) до /Controller (MCU)/SPI1 SCK.
+Повторно під'єднати NT2, вивід 2 з /Power Switches (ADC)/CSENSE (SO3) до /Controller (MCU)/ADC2_IN1.
+Оновіть назву аркуша R7 на '/DRV8305 (DRV)/'.
+Повторно під'єднати R7, вивід 1 з /DRV8305/GPIO (PE5) до /DRV8305 (DRV)/GPIO (PE5).
+Повторно під'єднати IC1, вивід 16 з /DRV8305/ASENSE (ADC) до /Controller (MCU)/ADC1_IN0.
+Оновіть назву аркуша R8 на '/DRV8305 (DRV)/'.
+Повторно під'єднати R8, вивід 1 з /DRV8305/PVDDSENSE до /DRV8305 (DRV)/PVDDSENSE.
+Повторно під'єднати R8, вивід 2 з PVDD до PVDD 12V.
+Повторно під'єднати NT3, вивід 1 з /DRV8305/BSENSE (ADC) до /Controller (MCU)/ADC3_IN2.
+Оновіть назву аркуша R9 на '/DRV8305 (DRV)/'.
+Повторно під'єднати R9, вивід 2 з /DRV8305/PVDDSENSE до /DRV8305 (DRV)/PVDDSENSE.
+Повторно під'єднати NT3, вивід 2 з /Power Switches (ADC)/BSENSE (SO2) до /Controller (MCU)/ADC3_IN2.
+Повторно під'єднати R10, вивід 2 з /DRV8305/SH_A до /DRV8305 (DRV)/SH_A.
+Повторно під'єднати R10, вивід 1 з /Power Switches (ADC)/ASENSE (SO1) до /Controller (MCU)/ASENSE (ADC1_IN11).
+Звʼязок додано /DRV8305 (DRV)/SL_A.
+Змінити позначення R12 на R11.
+Повторно під'єднати R12, вивід 1 з /Power Switches (ADC)/CSENSE (SO3) до /Controller (MCU)/CSENSE (ADC3_IN13).
+Повторно під'єднати R12, вивід 2 з /DRV8305/SH_C до /DRV8305 (DRV)/SH_C.
+Повторно під'єднати NT5, вивід 1 з /DRV8305/SH_A до /DRV8305 (DRV)/SH_A.
+Змінити позначення R11 на R12.
+Повторно під'єднати R11, вивід 2 з /DRV8305/SH_B до /DRV8305 (DRV)/SH_B.
+Повторно під'єднати R11, вивід 1 з /Power Switches (ADC)/BSENSE (SO2) до /Controller (MCU)/BSENSE (ADC2_IN12).
+Повторно під'єднати IC1, вивід 34 з /DRV8305/SL_A до /DRV8305 (DRV)/SL_A.
+Звʼязок додано /DRV8305 (DRV)/GPIO (PE4).
+Повторно під'єднати J1, вивід 1 з 5V до +5V.
+Повторно під'єднати IC1, вивід 8 з /DRV8305/GPIO (PE4) до /DRV8305 (DRV)/GPIO (PE4).
+Змінити позначення R17 на R16.
+Повторно під'єднати R17, вивід 2 з /Power Switches (ADC)/CSENSE (SO3) до /Controller (MCU)/CSENSE (ADC3_IN13).
+Повторно під'єднати Q1, вивід 3 з /DRV8305/SH_A до /DRV8305 (DRV)/SH_A.
+Змінити позначення R18 на R17.
+Повторно під'єднати R18, вивід 2 з /Power Switches (ADC)/ASENSE (SO1) до /Controller (MCU)/ASENSE (ADC1_IN11).
+Повторно під'єднати Q1, вивід 1 з /DRV8305/GH_A до /DRV8305 (DRV)/GH_A.
+Змінити позначення R16 на R18.
+Повторно під'єднати R16, вивід 2 з /Power Switches (ADC)/BSENSE (SO2) до /Controller (MCU)/BSENSE (ADC2_IN12).
+Повторно під'єднати J2, вивід 3 з 5V до VCC 3,3V.
+Повторно під'єднати R19, вивід 2 з 5V до +5V.
+Змінити позначення Q3 на Q2.
+Повторно під'єднати R20, вивід 2 з 5V до +5V.
+Повторно під'єднати Q3, вивід 1 з /DRV8305/GH_C до /DRV8305 (DRV)/GH_C.
+Повторно під'єднати R21, вивід 2 з 5V до +5V.
+Повторно під'єднати Q3, вивід 3 з /DRV8305/SH_C до /DRV8305 (DRV)/SH_C.
+Повторно під'єднати R22, вивід 1 з /DRV8305/INLA до /DRV8305 (DRV)/INLA.
+Звʼязок додано /DRV8305 (DRV)/INLB.
+Повторно під'єднати R23, вивід 1 з /DRV8305/INHB до /DRV8305 (DRV)/INLB.
+Змінити позначення Q2 на Q3.
+Повторно під'єднати R24, вивід 1 з /DRV8305/INLB до /DRV8305 (DRV)/INLC.
+Повторно під'єднати Q2, вивід 1 з /DRV8305/GH_B до /DRV8305 (DRV)/GH_B.
+Повторно під'єднати Q2, вивід 3 з /DRV8305/SH_B до /DRV8305 (DRV)/SH_B.
+Повторно під'єднати J2, вивід 1 з 5V до +5V.
+Повторно під'єднати Q4, вивід 1 з /DRV8305/GL_A до /DRV8305 (DRV)/GL_A.
+Повторно під'єднати Q4, вивід 3 з /DRV8305/SN1 до /DRV8305 (DRV)/SN1.
+Повторно під'єднати Q4, вивід 2 з /DRV8305/SH_A до /DRV8305 (DRV)/SH_A.
+Повторно під'єднати TP1, вивід 1 з /DRV8305/ASENSE (ADC) до /Controller (MCU)/ADC1_IN0.
+Звʼязок додано /DRV8305 (DRV)/GPIO (PE5).
+Повторно під'єднати TP2, вивід 1 з /DRV8305/CSENSE (ADC) до /Controller (MCU)/ADC2_IN1.
+Змінити позначення Q6 на Q5.
+Повторно під'єднати TP3, вивід 1 з /Power Switches (ADC)/BSENSE (SO2) до /Controller (MCU)/ADC3_IN2.
+Повторно під'єднати Q6, вивід 2 з /DRV8305/SH_C до /DRV8305 (DRV)/SH_C.
+Повторно під'єднати Q6, вивід 3 з /DRV8305/SN3 до /DRV8305 (DRV)/SN3.
+Повторно під'єднати TP6, вивід 1 з /Power Switches (ADC)/ASENSE (SO1) до /Controller (MCU)/ASENSE (ADC1_IN11).
+Повторно під'єднати Q6, вивід 1 з /DRV8305/GL_C до /DRV8305 (DRV)/GL_C.
+Повторно під'єднати TP7, вивід 1 з /Power Switches (ADC)/BSENSE (SO2) до /Controller (MCU)/BSENSE (ADC2_IN12).
+Повторно під'єднати J3, вивід 5 з GNDREF до +12V.
+Повторно під'єднати TP8, вивід 1 з /Power Switches (ADC)/CSENSE (SO3) до /Controller (MCU)/CSENSE (ADC3_IN13).
+Змінити позначення Q5 на Q6.
+Повторно під'єднати TP9, вивід 1 з /DRV8305/SH_A до /DRV8305 (DRV)/SH_A.
+Повторно під'єднати Q5, вивід 3 з /DRV8305/SN2 до /DRV8305 (DRV)/SN2.
+Змінити позначення TP11 на TP10.
+Повторно під'єднати TP11, вивід 1 з /DRV8305/SH_C до /DRV8305 (DRV)/SH_C.
+Повторно під'єднати Q5, вивід 1 з /DRV8305/GL_B до /DRV8305 (DRV)/GL_B.
+Змінити позначення TP10 на TP11.
+Повторно під'єднати TP10, вивід 1 з /DRV8305/SH_B до /DRV8305 (DRV)/SH_B.
+Повторно під'єднати Q5, вивід 2 з /DRV8305/SH_B до /DRV8305 (DRV)/SH_B.
+Повторно під'єднати IC1, вивід 13 з /DRV8305/GPIO (PE5) до /DRV8305 (DRV)/GPIO (PE5).
+Повторно під'єднати U2, вивід 50 з unconnected-(U2-PA15-Pad50) до /DRV8305 (DRV)/INLA.
+Повторно під'єднати U2, вивід 21 з unconnected-(U2-PA5-Pad21) до /Controller (MCU)/SPI1 SCK.
+Повторно під'єднати U2, вивід 53 з unconnected-(U2-PC12-Pad53) до unconnected-(U2-PC11-Pad52).
+Повторно під'єднати U2, вивід 57 з unconnected-(U2-PB5-Pad57) до /Controller (MCU)/SPI1 MOSI.
+Звʼязок додано Net-(U2-VCAP_2).
+Повторно під'єднати U2, вивід 47 з unconnected-(U2-VCAP_2-Pad47) до Net-(U2-VCAP_2).
+Повторно під'єднати U2, вивід 10 з unconnected-(U2-PC2-Pad10) до /Controller (MCU)/BSENSE (ADC2_IN12).
+Повторно під'єднати U2, вивід 9 з unconnected-(U2-PC1-Pad9) до /Controller (MCU)/ASENSE (ADC1_IN11).
+Повторно під'єднати U2, вивід 16 з unconnected-(U2-PA2-Pad16) до /Controller (MCU)/ADC3_IN2.
+Повторно під'єднати U2, вивід 63 з Net-(C43-Pad2) до +12V.
+Повторно під'єднати U2, вивід 22 з unconnected-(U2-PA6-Pad22) до /Controller (MCU)/SPI1 MISO.
+Повторно під'єднати U2, вивід 14 з unconnected-(U2-PA0-Pad14) до /Controller (MCU)/ADC1_IN0.
+Повторно під'єднати U2, вивід 11 з unconnected-(U2-PC3-Pad11) до /Controller (MCU)/CSENSE (ADC3_IN13).
+Повторно під'єднати U2, вивід 15 з unconnected-(U2-PA1-Pad15) до /Controller (MCU)/ADC2_IN1.
+Повторно під'єднати U2, вивід 55 з unconnected-(U2-PB3-Pad55) до /DRV8305 (DRV)/INLB.
+Повторно під'єднати U2, вивід 18 з Net-(C43-Pad2) до +12V.
+Повторно під'єднати U2, вивід 29 з unconnected-(U2-PB10-Pad29) до /DRV8305 (DRV)/INLC.
+Повторно під'єднати U2, вивід 25 з unconnected-(U2-PC5-Pad25) до /DRV8305 (DRV)/GPIO.
+Звʼязок додано Net-(U2-VCAP_1).
+Повторно під'єднати U2, вивід 31 з unconnected-(U2-VCAP_1-Pad31) до Net-(U2-VCAP_1).
+Повторно під'єднати U2, вивід 12 з +3.3V до +12V.
+Повторно під'єднати J4, вивід 1 з unconnected-(J4-Pad1) до +12V.
+Попередження: Warning: R13 footprint 'RES_BR3_STP' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C38 footprint 'CAPC1608X90N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: R14 footprint 'RES_BR3_STP' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C39 footprint 'CAPC1608X90N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: R15 footprint 'RES_BR3_STP' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C41 footprint 'CAPC1005X55N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: R16 footprint 'RESC1005X40N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C43 footprint 'GCM21' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: Q3 footprint 'IRFR7546TRPBF' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C44 footprint 'GCM21' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: R17 footprint 'RESC1005X40N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C45 footprint 'CAPC4532X180N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C46 footprint 'CAPC1608X90N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: D6 footprint 'DIOM7959X262N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: R18 footprint 'RESC1005X40N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: Q4 footprint 'IRFR7546TRPBF' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: D7 footprint 'DIOM5126X250N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: D8 footprint 'DIOM5436X244N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: F1 footprint 'RGEF500' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: IC1 footprint 'QFP50P900X900X120-48N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: Q5 footprint 'IRFR7546TRPBF' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: FB2 footprint 'BLM18SP221SN1B' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: R21 footprint 'RESC1608X50N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C1 footprint 'CAPPM7344X310N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C2 footprint 'CAPC4532X180N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C3 footprint 'GCM21' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C4 footprint 'GCM31C5C2E183FX03L' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: R23 footprint 'RESC1608X50N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: Q6 footprint 'IRFR7546TRPBF' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C5 footprint 'GCM31C5C2E183FX03L' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: R24 footprint 'RESC1608X50N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C6 footprint 'CAPC4532X180N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C7 footprint 'CAPC4532X180N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: R25 footprint 'MCS04020C1003FE000' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C8 footprint 'CAPC4532X180N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: R26 footprint 'ERJS08_U08_(1206)' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Для контактного майданчика компонента Y1 1 не знайдено мережі (немає виводу 1 у символі).
+Попередження: Warning: C9 footprint 'CAPPRD500W60D1050H1750' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: R27 footprint 'MCS04020C1003FE000' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: R1 footprint 'ERJS14_U14_(1210)' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: S1 footprint 'TL1220R2BBBRRESET' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C10 footprint 'CAPPRD500W60D1050H1750' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: R2 footprint 'MCS04020C1003FE000' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C11 footprint 'CAPC1005X61N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: J1 footprint 'HDRV1W100P100X300_1X1_100X100X100P' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C12 footprint 'CAPC1608X90N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: R3 footprint 'ERJS08_U08_(1206)' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C13 footprint 'CAPC1608X90N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: R4 footprint 'MCS04020C1003FE000' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: J2 footprint 'HDRV3W66P0X254_1X3_762X229X838P' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C14 footprint 'CAPC4532X180N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C15 footprint 'CAPC4532X180N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: R5 footprint 'MCS04020C1003FE000' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C16 footprint 'CAPC4532X180N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: J3 footprint '1792892' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C18 footprint 'EXFSHR1000PF163V' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: R6 footprint 'MCS04020C1003FE000' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C19 footprint 'EXFSHR1000PF163V' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: J4 footprint 'XT30PWM' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C20 footprint 'CAPC1608X90N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: R7 footprint 'MCS04020C1003FE000' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C21 footprint 'CAPC1608X90N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: L1 footprint 'INDPM120120X1020N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C22 footprint 'CAPC1608X90N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: R8 footprint 'RESC2012X60N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C24 footprint 'CAPC1608X80N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C25 footprint 'CAPC1608X80N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C26 footprint 'CAPC1608X90N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C27 footprint 'CAPC1608X90N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: R9 footprint 'RESC2012X60N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C28 footprint 'CAPC3225X230N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C29 footprint 'CAPPM3216X180N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C30 footprint 'CAPPM3216X180N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: R10 footprint 'RESC2012X60N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C31 footprint 'CAPC2114X95N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C32 footprint 'CAPC1005X70N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C33 footprint 'CAPC1608X90N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: R11 footprint 'RESC2012X60N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C34 footprint 'CAPC1608X90N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: PS1 footprint 'SOT95P280X110-6N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C17 footprint 'EXFSHR1000PF163V' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: Q1 footprint 'IRFR7546TRPBF' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: R12 footprint 'RESC2012X60N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C35 footprint 'CAPC1608X90N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C36 footprint 'CAPC1608X90N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: C37 footprint 'CAPC3225X230N' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: Q2 footprint 'IRFR7546TRPBF' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Попередження: Warning: Y1 footprint 'LFXTAL072100REEL' is missing a library name. Use the full 'Library:Footprint' format to avoid repeated update notifications.
+Помилка: Не вдалося додати NT1 (не призначене посадкове місце).
+Помилка: Не вдалося додати NT6 (не призначене посадкове місце).
+Помилка: Не вдалося додати R15 (посадкове місце 'RES_BR3_STP' не знайдено).
+Помилка: Не вдалося додати FB1 (не призначене посадкове місце).
+Помилка: Не вдалося додати NT7 (не призначене посадкове місце).
+Помилка: Не вдалося додати R1 (посадкове місце 'ERJS14_U14_(1210)' не знайдено).
+Помилка: Не вдалося додати R13 (посадкове місце 'RES_BR3_STP' не знайдено).
+Помилка: Не вдалося додати R3 (посадкове місце 'ERJS08_U08_(1206)' не знайдено).
+Помилка: Не вдалося додати D1 (не призначене посадкове місце).
+Помилка: Не вдалося додати R14 (посадкове місце 'RES_BR3_STP' не знайдено).
+Помилка: Не вдалося додати SW1 (не призначене посадкове місце).
+Помилка: Не вдалося додати U1 (не призначене посадкове місце).
+Помилка: Не вдалося додати R26 (посадкове місце 'ERJS08_U08_(1206)' не знайдено).
+
+
+Інформація: Всього попереджень: 88, помилок: 13.
