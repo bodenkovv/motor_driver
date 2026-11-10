@@ -1,0 +1,4 @@
+CSS2728 Stackpole wide-format current-sense resistor footprint.
+Based on CSS/CSSH series datasheet mechanical dimensions for CSS2728.
+Suggested land pattern is an engineering layout derived from terminal dimensions;
+validate soldering and thermal performance on the production PCB.

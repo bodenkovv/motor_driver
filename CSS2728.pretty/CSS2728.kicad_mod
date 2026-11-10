@@ -1,0 +1,183 @@
+(footprint "CSS2728"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Stackpole CSS2728 current sense resistor, 6.71 x 7.19 mm body; derived pad layout")
+	(tags "Stackpole CSS2728 2827 wide shunt current sense resistor")
+	(property "Reference" "REF**"
+		(at 0 -4.7 0)
+		(layer "F.SilkS")
+		(uuid "f33b3d94-8a64-4631-b28b-90a0bf89a001")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CSS2728"
+		(at 0 4.7 0)
+		(layer "F.Fab")
+		(uuid "14b74fb2-6493-4f4a-9b51-7eaa59c5b067")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.seielect.com/Catalog/SEI-css_cssh.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7084ea5e-2613-49bc-8cb0-21743ea73baf")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "CSS2728 datasheet body 6.71 x 7.19 x 0.99 mm; 5 mOhm part is 3 W"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f2f2581b-2e98-4be3-a50f-637c7bf1b2dc")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -3.355 -3.595)
+		(end 3.355 -3.595)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6ca68d4d-69e5-4e8d-a5a2-fdbece8ce3c1")
+	)
+	(fp_line
+		(start -3.355 3.595)
+		(end -3.355 -3.595)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c9a93877-b11c-4624-b14e-a8482a141c7c")
+	)
+	(fp_line
+		(start 3.355 -3.595)
+		(end 3.355 3.595)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a1127fe8-f101-43ae-8cff-476a61e4914f")
+	)
+	(fp_line
+		(start 3.355 3.595)
+		(end -3.355 3.595)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c3df117d-6256-4895-8e88-2b116345f642")
+	)
+	(fp_line
+		(start -3.355 -3.595)
+		(end 3.355 -3.595)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "86be6093-f489-4dd4-8986-a9481066334a")
+	)
+	(fp_line
+		(start -3.355 3.595)
+		(end -3.355 -3.595)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f820108e-9155-42ed-88a5-595767761ee8")
+	)
+	(fp_line
+		(start 3.355 -3.595)
+		(end 3.355 3.595)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bd96a1cb-00f2-4c03-8729-33e9ff3a8d19")
+	)
+	(fp_line
+		(start 3.355 3.595)
+		(end -3.355 3.595)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "80e14bdf-bc9f-4052-84d4-4615840e857c")
+	)
+	(fp_rect
+		(start -3.755 -3.995)
+		(end 3.755 3.995)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "fdaf2932-875d-45d7-8ba0-4ed96be62439")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 90)
+		(layer "F.Fab")
+		(uuid "37849d25-9a9d-4c5f-831f-452a404c6534")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -2.78 0)
+		(size 1.7 7.35)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "011a7e7b-8f8c-4098-90c0-16d83f2351a4")
+	)
+	(pad "2" smd rect
+		(at 2.78 0)
+		(size 1.7 7.35)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "06e0cc19-c60b-4ce8-84cf-16f3f5b04a5b")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/CSS2728.pretty/3dshapes/CSS2728.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

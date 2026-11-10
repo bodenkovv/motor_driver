@@ -1,0 +1,10 @@
+(fp_lib_table
+  (version 7)
+  (lib
+    (name "Motor_Shunt")
+    (type "KiCad")
+    (uri "${KIPRJMOD}/CSS2728.pretty")
+    (options "")
+    (descr "Project-local current-sense resistor footprints")
+  )
+)

@@ -1469,7 +1469,7 @@
 					)
 				)
 			)
-			(property "Footprint" "RES_BR3_STP"
+			(property "Footprint" "Motor_Shunt:CSS2728"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1481,7 +1481,7 @@
 					)
 				)
 			)
-			(property "Datasheet" "BR3FB5L00"
+			(property "Datasheet" "https://www.seielect.com/Catalog/SEI-css_cssh.pdf"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1493,7 +1493,29 @@
 					)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "Stackpole CSS2728FT5L00, 5mOhm 1% 3W; limit 24A max (2.88W), 0.5s pulse; validate PCB thermal design"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer_Name" "Stackpole"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer_Part_Number" "CSS2728FT5L00"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2971,18 +2993,6 @@
 		(uuid "7bb96bd6-6014-4c52-8a57-04cb06a693b2")
 	)
 	(junction
-		(at 143.51 83.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7f474a09-5b5d-4e0f-911c-3b7714fde968")
-	)
-	(junction
-		(at 129.54 83.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8b01c117-99fa-42a0-a818-80f0c8058aaf")
-	)
-	(junction
 		(at 38.1 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2999,6 +3009,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9a0a65c2-f3ac-4503-9195-dc348539b0c2")
+	)
+	(junction
+		(at 129.54 82.55)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a18ad1b2-d31b-4df4-abcb-ec2e834cd527")
 	)
 	(junction
 		(at 129.54 100.33)
@@ -3065,12 +3081,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f2ce5892-bd8e-41e2-bdd0-329ee57108cd")
-	)
-	(junction
-		(at 129.54 82.55)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f596f6b6-858e-40f6-aa68-6829317b2384")
 	)
 	(junction
 		(at 205.74 99.06)
@@ -3210,7 +3220,17 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 83.82) (xy 129.54 83.82)
+			(xy 129.54 82.55) (xy 152.4 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27e53c31-32fa-4e75-a43a-d44b16b673cb")
+	)
+	(wire
+		(pts
+			(xy 111.76 82.55) (xy 129.54 82.55)
 		)
 		(stroke
 			(width 0)
@@ -3377,16 +3397,6 @@
 			(type default)
 		)
 		(uuid "567fdaaf-6a81-4546-9437-ac05e568403d")
-	)
-	(wire
-		(pts
-			(xy 129.54 82.55) (xy 129.54 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "581f06d8-3b27-485d-b0d1-b2992d643260")
 	)
 	(wire
 		(pts
@@ -3640,16 +3650,6 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 81.28) (xy 129.54 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "935fc428-5647-4662-92ed-5926eb5c3ff1")
-	)
-	(wire
-		(pts
 			(xy 38.1 82.55) (xy 53.34 82.55)
 		)
 		(stroke
@@ -3657,16 +3657,6 @@
 			(type default)
 		)
 		(uuid "95711b96-e362-455b-a8bd-a1082bb21b29")
-	)
-	(wire
-		(pts
-			(xy 129.54 83.82) (xy 152.4 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9a337473-c943-40af-b741-67e401b00df8")
 	)
 	(wire
 		(pts
@@ -3860,6 +3850,16 @@
 	)
 	(wire
 		(pts
+			(xy 129.54 82.55) (xy 129.54 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d74ba767-cc79-498d-abab-233d1203b0f8")
+	)
+	(wire
+		(pts
 			(xy 160.02 101.6) (xy 166.37 101.6)
 		)
 		(stroke
@@ -3897,6 +3897,16 @@
 			(type default)
 		)
 		(uuid "e506d968-47dc-4d5b-bb01-4b457affc2d9")
+	)
+	(wire
+		(pts
+			(xy 152.4 82.55) (xy 152.4 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5468353-dbe1-40d2-8a2c-cd093181f533")
 	)
 	(wire
 		(pts
@@ -4143,7 +4153,7 @@
 	)
 	(hierarchical_label "SH_B"
 		(shape bidirectional)
-		(at 111.76 83.82 180)
+		(at 111.76 82.55 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4153,7 +4163,7 @@
 		)
 		(uuid "210a53b8-f493-4cb7-b9e1-2c10fd3ade10")
 		(property "Netclass" "HighCurrent"
-			(at 111.76 85.09 0)
+			(at 111.76 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5870,7 +5880,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Bare_Metal_Element_L16.3mm_W4.8mm_P15.30mm"
+		(property "Footprint" "Motor_Shunt:CSS2728"
 			(at 41.91 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -5882,7 +5892,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "BR3FB5L00"
+		(property "Datasheet" "https://www.seielect.com/Catalog/SEI-css_cssh.pdf"
 			(at 41.91 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -5894,7 +5904,29 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Stackpole CSS2728FT5L00, 5mOhm 1% 3W; limit 24A max (2.88W), 0.5s pulse; validate PCB thermal design"
+			(at 41.91 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Stackpole"
+			(at 41.91 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CSS2728FT5L00"
 			(at 41.91 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -7683,7 +7715,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Bare_Metal_Element_L16.3mm_W4.8mm_P15.30mm"
+		(property "Footprint" "Motor_Shunt:CSS2728"
 			(at 222.25 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -7695,7 +7727,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "BR3FB5L00"
+		(property "Datasheet" "https://www.seielect.com/Catalog/SEI-css_cssh.pdf"
 			(at 222.25 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -7707,7 +7739,29 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Stackpole CSS2728FT5L00, 5mOhm 1% 3W; limit 24A max (2.88W), 0.5s pulse; validate PCB thermal design"
+			(at 222.25 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Stackpole"
+			(at 222.25 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CSS2728FT5L00"
 			(at 222.25 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -9660,7 +9714,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Bare_Metal_Element_L16.3mm_W4.8mm_P15.30mm"
+		(property "Footprint" "Motor_Shunt:CSS2728"
 			(at 134.62 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -9672,7 +9726,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "BR3FB5L00"
+		(property "Datasheet" "https://www.seielect.com/Catalog/SEI-css_cssh.pdf"
 			(at 134.62 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -9684,7 +9738,29 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Stackpole CSS2728FT5L00, 5mOhm 1% 3W; limit 24A max (2.88W), 0.5s pulse; validate PCB thermal design"
+			(at 134.62 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Stackpole"
+			(at 134.62 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CSS2728FT5L00"
 			(at 134.62 113.03 0)
 			(hide yes)
 			(show_name no)
