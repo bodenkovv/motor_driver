@@ -24075,7 +24075,7 @@
 				(justify mirror)
 			)
 		)
-		(property ki_fp_filters "RES_BR3_STP")
+		(property ki_fp_filters "Motor_Shunt* CSS2728*")
 		(path "/c029e2ac-a960-468a-a767-0922dbeb17e0/ef83a8c8-c694-48e2-af28-d73728a3e4da")
 		(sheetname "/Power Switches (ADC)/")
 		(sheetfile "powerswitches.kicad_sch")
@@ -24993,6 +24993,12 @@
 		(path "/4005b6e7-3ac6-4e44-8e5b-5b5699cd0c8a/f9b71abd-5628-4be7-9081-3fb775ba6948")
 		(sheetname "/PWM/")
 		(sheetfile "PWM.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -32687,7 +32693,7 @@
 				(justify mirror)
 			)
 		)
-		(property ki_fp_filters "RES_BR3_STP")
+		(property ki_fp_filters "Motor_Shunt* CSS2728*")
 		(path "/c029e2ac-a960-468a-a767-0922dbeb17e0/a8d6ba85-7755-4f5b-b7d6-cf43a5c5d1e3")
 		(sheetname "/Power Switches (ADC)/")
 		(sheetfile "powerswitches.kicad_sch")
@@ -35812,6 +35818,12 @@
 		(path "/4005b6e7-3ac6-4e44-8e5b-5b5699cd0c8a/562a3361-b584-4e83-a642-17e6c52484d9")
 		(sheetname "/PWM/")
 		(sheetfile "PWM.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -40565,7 +40577,7 @@
 				(justify mirror)
 			)
 		)
-		(property ki_fp_filters "RES_BR3_STP")
+		(property ki_fp_filters "Motor_Shunt* CSS2728*")
 		(path "/c029e2ac-a960-468a-a767-0922dbeb17e0/4ecf2021-f613-46c7-ba0e-28103f94125d")
 		(sheetname "/Power Switches (ADC)/")
 		(sheetfile "powerswitches.kicad_sch")
