@@ -355,7 +355,7 @@
 					(justify left top)
 				)
 			)
-			(property "Value" "0.1uF"
+			(property "Value" "100nF"
 				(at 8.89 3.81 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1459,7 +1459,7 @@
 					)
 				)
 			)
-			(property "Value" "BR3FB5L00"
+			(property "Value" "5mOhm"
 				(at 6.35 -3.81 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -5859,7 +5859,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "BR3FB5L00"
+		(property "Value" "5mOhm"
 			(at 44.45 106.6799 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5954,7 +5954,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "100nF"
 			(at 259.08 115.5699 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5965,7 +5965,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "mouser:CAPC1608X90N"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 351.46 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -5989,7 +5989,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "Multilayer Ceramic Chip Capacitors, Capacitance=0.1uF, Емкость: 0.1 µF = 100 нФ = 100 000 пФ.  LxWxT:1.6x0.8x0.8mm"
+		(property "Description" "TDK 0603 100nF 50V X7R +/-10% MLCC"
 			(at 260.35 120.396 0)
 			(hide yes)
 			(show_name no)
@@ -7672,7 +7672,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "BR3FB5L00"
+		(property "Value" "5mOhm"
 			(at 224.79 106.6799 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8514,7 +8514,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "100nF"
 			(at 170.18 116.8399 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8525,7 +8525,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "mouser:CAPC1608X90N"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 262.56 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -8549,7 +8549,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "Multilayer Ceramic Chip Capacitors, Capacitance=0.1uF, Емкость: 0.1 µF = 100 нФ = 100 000 пФ.  LxWxT:1.6x0.8x0.8mm"
+		(property "Description" "TDK 0603 100nF 50V X7R +/-10% MLCC"
 			(at 171.45 121.666 0)
 			(hide yes)
 			(show_name no)
@@ -9213,7 +9213,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "100nF"
 			(at 78.74 116.8399 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9224,7 +9224,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "mouser:CAPC1608X90N"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 171.12 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -9248,7 +9248,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "Multilayer Ceramic Chip Capacitors, Capacitance=0.1uF, Емкость: 0.1 µF = 100 нФ = 100 000 пФ.  LxWxT:1.6x0.8x0.8mm"
+		(property "Description" "TDK 0603 100nF 50V X7R +/-10% MLCC"
 			(at 80.01 121.666 0)
 			(hide yes)
 			(show_name no)
@@ -9649,7 +9649,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "BR3FB5L00"
+		(property "Value" "5mOhm"
 			(at 137.16 107.9499 90)
 			(show_name no)
 			(do_not_autoplace no)

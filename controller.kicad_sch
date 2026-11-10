@@ -1758,7 +1758,7 @@
 					(justify left top)
 				)
 			)
-			(property "Value" "0.1uF"
+			(property "Value" "100nF"
 				(at 8.89 3.81 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2887,7 +2887,7 @@
 					)
 				)
 			)
-			(property "Footprint" "mouser:LFXTAL072100REEL"
+			(property "Footprint" "Crystal:Crystal_SMD_HC49-SD"
 				(at 8.89 -96.19 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -8927,7 +8927,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "mouser:CAPC1608X90N"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 56.21 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -8939,7 +8939,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/06031A100FAT2A.pdf"
+		(property "Datasheet" "http://docs-europe.electrocomponents.com/webdocs/14e9/0900766b814e9125.pdf"
 			(at -43.79 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -8951,7 +8951,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "Capacitor MLCC 0603 100nF 25V AVX 0603 Standard 100nF Ceramic Multilayer Capacitor, 25 V dc, +125C, X7R Dielectric, +/-10% SMD"
+		(property "Description" "TDK 0603 100nF 50V X7R +/-10% MLCC"
 			(at 152.4 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -8974,7 +8974,7 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Name" "Kyocera AVX"
+		(property "Manufacturer_Name" "TDK"
 			(at -343.79 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -8986,7 +8986,7 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "06033C104KAT2A"
+		(property "Manufacturer_Part_Number" "CGA3E2X7R1H104K080AA"
 			(at -443.79 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -9106,7 +9106,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "mouser:GCM21"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at -6.02 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -9130,7 +9130,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "Chip Multilayer Ceramic Capacitors for Automotive (Powertrain/Safety), 1.6 x 0.8 (0603)"
+		(property "Description" "Murata GCM21 automotive 2.2uF MLCC"
 			(at 90.17 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -9261,7 +9261,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "mouser:CAPC1608X90N"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 44.78 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -9273,7 +9273,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/06031A100FAT2A.pdf"
+		(property "Datasheet" "http://docs-europe.electrocomponents.com/webdocs/14e9/0900766b814e9125.pdf"
 			(at -55.22 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -9285,7 +9285,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "Capacitor MLCC 0603 100nF 25V AVX 0603 Standard 100nF Ceramic Multilayer Capacitor, 25 V dc, +125C, X7R Dielectric, +/-10% SMD"
+		(property "Description" "TDK 0603 100nF 50V X7R +/-10% MLCC"
 			(at 140.97 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -9308,7 +9308,7 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Name" "Kyocera AVX"
+		(property "Manufacturer_Name" "TDK"
 			(at -355.22 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -9320,7 +9320,7 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "06033C104KAT2A"
+		(property "Manufacturer_Part_Number" "CGA3E2X7R1H104K080AA"
 			(at -455.22 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -9775,7 +9775,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "mouser:GCM21"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at -23.8 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -9799,7 +9799,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "Chip Multilayer Ceramic Capacitors for Automotive (Powertrain/Safety), 1.6 x 0.8 (0603)"
+		(property "Description" "Murata GCM21 automotive 2.2uF MLCC"
 			(at 72.39 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -10192,7 +10192,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "mouser:CAPC3225X230N"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
 			(at 70.18 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -10371,7 +10371,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "mouser:CAPC1608X90N"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 51.13 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -10383,7 +10383,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/06031A100FAT2A.pdf"
+		(property "Datasheet" "http://docs-europe.electrocomponents.com/webdocs/14e9/0900766b814e9125.pdf"
 			(at -48.87 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -10395,7 +10395,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "Capacitor MLCC 0603 100nF 25V AVX 0603 Standard 100nF Ceramic Multilayer Capacitor, 25 V dc, +125C, X7R Dielectric, +/-10% SMD"
+		(property "Description" "TDK 0603 100nF 50V X7R +/-10% MLCC"
 			(at 147.32 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -10418,7 +10418,7 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Name" "Kyocera AVX"
+		(property "Manufacturer_Name" "TDK"
 			(at -348.87 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -10430,7 +10430,7 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "06033C104KAT2A"
+		(property "Manufacturer_Part_Number" "CGA3E2X7R1H104K080AA"
 			(at -448.87 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -10549,7 +10549,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "mouser:CAPC1608X90N"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 62.56 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -10561,7 +10561,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/06031A100FAT2A.pdf"
+		(property "Datasheet" "http://docs-europe.electrocomponents.com/webdocs/14e9/0900766b814e9125.pdf"
 			(at -37.44 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -10573,7 +10573,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "Capacitor MLCC 0603 100nF 25V AVX 0603 Standard 100nF Ceramic Multilayer Capacitor, 25 V dc, +125C, X7R Dielectric, +/-10% SMD"
+		(property "Description" "TDK 0603 100nF 50V X7R +/-10% MLCC"
 			(at 158.75 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -10596,7 +10596,7 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Name" "Kyocera AVX"
+		(property "Manufacturer_Name" "TDK"
 			(at -337.44 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -10608,7 +10608,7 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "06033C104KAT2A"
+		(property "Manufacturer_Part_Number" "CGA3E2X7R1H104K080AA"
 			(at -437.44 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -10881,7 +10881,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "mouser:CAPC1608X90N"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 40.97 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -10893,7 +10893,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/06031A100FAT2A.pdf"
+		(property "Datasheet" "http://docs-europe.electrocomponents.com/webdocs/14e9/0900766b814e9125.pdf"
 			(at -59.03 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -10905,7 +10905,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "Capacitor MLCC 0603 100nF 25V AVX 0603 Standard 100nF Ceramic Multilayer Capacitor, 25 V dc, +125C, X7R Dielectric, +/-10% SMD"
+		(property "Description" "TDK 0603 100nF 50V X7R +/-10% MLCC"
 			(at 137.16 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -10928,7 +10928,7 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Name" "Kyocera AVX"
+		(property "Manufacturer_Name" "TDK"
 			(at -359.03 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -10940,7 +10940,7 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "06033C104KAT2A"
+		(property "Manufacturer_Part_Number" "CGA3E2X7R1H104K080AA"
 			(at -459.03 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -11726,7 +11726,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "100nF"
 			(at 118.11 162.5601 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11737,7 +11737,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "mouser:CAPC1608X90N"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 25.73 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -11761,7 +11761,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "Multilayer Ceramic Chip Capacitors, Capacitance=0.1uF, Емкость: 0.1 µF = 100 нФ = 100 000 пФ.  LxWxT:1.6x0.8x0.8mm"
+		(property "Description" "TDK 0603 100nF 50V X7R +/-10% MLCC"
 			(at 116.84 157.734 0)
 			(hide yes)
 			(show_name no)
@@ -11914,7 +11914,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mouser:LFXTAL072100REEL"
+		(property "Footprint" "Crystal:Crystal_SMD_HC49-SD"
 			(at 59.69 216.84 0)
 			(hide yes)
 			(show_name no)
@@ -12171,7 +12171,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "mouser:CAPC1608X90N"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 48.59 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -12183,7 +12183,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/06031A100FAT2A.pdf"
+		(property "Datasheet" "http://docs-europe.electrocomponents.com/webdocs/14e9/0900766b814e9125.pdf"
 			(at -51.41 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -12195,7 +12195,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "Capacitor MLCC 0603 100nF 25V AVX 0603 Standard 100nF Ceramic Multilayer Capacitor, 25 V dc, +125C, X7R Dielectric, +/-10% SMD"
+		(property "Description" "TDK 0603 100nF 50V X7R +/-10% MLCC"
 			(at 144.78 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -12218,7 +12218,7 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Name" "Kyocera AVX"
+		(property "Manufacturer_Name" "TDK"
 			(at -351.41 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -12230,7 +12230,7 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "06033C104KAT2A"
+		(property "Manufacturer_Part_Number" "CGA3E2X7R1H104K080AA"
 			(at -451.41 54.61 0)
 			(hide yes)
 			(show_name no)
