@@ -7214,7 +7214,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "mouser:CAPC1608X90N"
 			(at 184.15 149.53 0)
 			(hide yes)
 			(show_name no)
@@ -7226,7 +7226,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "http://docs-europe.electrocomponents.com/webdocs/14e9/0900766b814e9125.pdf"
+		(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/06031A100FAT2A.pdf"
 			(at 184.15 249.53 0)
 			(hide yes)
 			(show_name no)
@@ -7238,7 +7238,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "TDK 0603 100nF 50V X7R +/-10% MLCC"
+		(property "Description" "Capacitor MLCC 0603 100nF 25V AVX 0603 Standard 100nF Ceramic Multilayer Capacitor, 25 V dc, +125C, X7R Dielectric, +/-10% SMD"
 			(at 175.26 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -7261,7 +7261,7 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Name" "TDK"
+		(property "Manufacturer_Name" "Kyocera AVX"
 			(at 184.15 549.53 0)
 			(hide yes)
 			(show_name no)
@@ -7273,7 +7273,7 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "CGA3E2X7R1H104K080AA"
+		(property "Manufacturer_Part_Number" "06033C104KAT2A"
 			(at 184.15 649.53 0)
 			(hide yes)
 			(show_name no)
@@ -7438,7 +7438,7 @@
 		)
 	)
 	(symbol
-		(lib_id "New_Library:C3225X7R1H106M250AC")
+		(lib_id "New_Library:CGA3E2X7R1H104K080AA")
 		(at 132.08 71.12 270)
 		(unit 1)
 		(body_style 1)
@@ -7471,7 +7471,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
+		(property "Footprint" "mouser:CAPC1608X90N"
 			(at 35.89 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -7483,7 +7483,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_midvoltage_en.pdf"
+		(property "Datasheet" "http://docs-europe.electrocomponents.com/webdocs/14e9/0900766b814e9125.pdf"
 			(at -64.11 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -7495,7 +7495,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "TDK 1210 C 10uF Ceramic Multilayer Capacitor, 50 V dc, +125C, X7R Dielectric, +/-20%"
+		(property "Description" "Multilayer Ceramic Chip Capacitors, Capacitance=0.1uF, LxWxT:1.6x0.8x0.8mm"
 			(at 132.08 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -7506,7 +7506,7 @@
 				)
 			)
 		)
-		(property "Height" "2.3"
+		(property "Height" "0.9"
 			(at -264.11 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -7530,7 +7530,7 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C3225X7R1H106M250AC"
+		(property "Manufacturer_Part_Number" "CGA3E2X7R1H104K080AA"
 			(at -464.11 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -7542,7 +7542,7 @@
 				(justify left top)
 			)
 		)
-		(property "Mouser Part Number" "810-C3225X7R1H106MAC"
+		(property "Mouser Part Number" "810-CGA3E2X7R1H104K"
 			(at -564.11 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -7554,7 +7554,7 @@
 				(justify left top)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TDK/C3225X7R1H106M250AC?qs=6JAMGB%252BEdkwY95l8JqNSnw%3D%3D"
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TDK/CGA3E2X7R1H104K080AA?qs=NRhsANhppD%2Fge2a869G9Fg%3D%3D"
 			(at -664.11 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -7566,7 +7566,7 @@
 				(justify left top)
 			)
 		)
-		(property "Arrow Part Number" "C3225X7R1H106M250AC"
+		(property "Arrow Part Number" "CGA3E2X7R1H104K080AA"
 			(at -764.11 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -7578,7 +7578,7 @@
 				(justify left top)
 			)
 		)
-		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/c3225x7r1h106m250ac/tdk?utm_currency=USD&region=nac"
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/cga3e2x7r1h104k080aa/tdk.html?utm_currency=USD&region=europe"
 			(at -864.11 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -8312,7 +8312,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "0.1uF"
 			(at 95.25 77.4699 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8323,7 +8323,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "mouser:CAPC1608X90N"
 			(at 187.63 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -8347,7 +8347,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "TDK 0603 100nF 50V X7R +/-10% MLCC"
+		(property "Description" "Multilayer Ceramic Chip Capacitors, Capacitance=0.1uF, Емкость: 0.1 µF = 100 нФ = 100 000 пФ.  LxWxT:1.6x0.8x0.8mm"
 			(at 96.52 82.296 0)
 			(hide yes)
 			(show_name no)
@@ -8912,7 +8912,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "mouser:CAPC3225X230N"
 			(at 48.59 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -8924,7 +8924,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "http://docs-europe.electrocomponents.com/webdocs/14e9/0900766b814e9125.pdf"
+		(property "Datasheet" "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_midvoltage_en.pdf"
 			(at -51.41 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -8936,7 +8936,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "TDK 0603 100nF 50V X7R +/-10% MLCC"
+		(property "Description" "TDK 1210 C 10uF Ceramic Multilayer Capacitor, 50 V dc, +125C, X7R Dielectric, +/-20%"
 			(at 144.78 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -8947,7 +8947,7 @@
 				)
 			)
 		)
-		(property "Height" "0.9"
+		(property "Height" "2.3"
 			(at -251.41 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -8971,7 +8971,7 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "CGA3E2X7R1H104K080AA"
+		(property "Manufacturer_Part_Number" "C3225X7R1H106M250AC"
 			(at -451.41 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -9168,7 +9168,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "mouser:CAPC1005X70N"
 			(at 313.36 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -9180,7 +9180,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "http://docs-europe.electrocomponents.com/webdocs/14e9/0900766b814e9125.pdf"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71C104KA88-01A.pdf"
 			(at 413.36 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -9192,7 +9192,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "TDK 0603 100nF 50V X7R +/-10% MLCC"
+		(property "Description" "Ceramic  SMT capacitor 100nF 16Vdc Murata 0402 GRM 100nF Ceramic Multilayer Capacitor, 16 V dc X7R Dielectric ??10%"
 			(at 217.17 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -9203,7 +9203,7 @@
 				)
 			)
 		)
-		(property "Height" "0.9"
+		(property "Height" "0.7"
 			(at 613.36 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -9215,7 +9215,7 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Name" "TDK"
+		(property "Manufacturer_Name" "Murata Electronics"
 			(at 713.36 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -9227,7 +9227,7 @@
 				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "CGA3E2X7R1H104K080AA"
+		(property "Manufacturer_Part_Number" "GRM155R71C104KA88D"
 			(at 813.36 78.74 0)
 			(hide yes)
 			(show_name no)
