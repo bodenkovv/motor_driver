@@ -7652,7 +7652,7 @@
 				)
 			)
 		)
-		(property "Value" "BR3FB5L00"
+		(property "Value" "0.005Ω"
 			(at 6.35 -3.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7662,7 +7662,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RES_BR3_STP"
+		(property "Footprint" "Motor_Shunt:CSS2728"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7674,7 +7674,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "BR3FB5L00"
+		(property "Datasheet" "https://www.seielect.com/Catalog/SEI-css_cssh.pdf"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7686,7 +7686,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Current sense shunt, 5 mΩ, SMD CSS2728"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7707,7 +7707,7 @@
 				)
 			)
 		)
-		(property "ki_keywords" "BR3FB5L00"
+		(property "ki_keywords" "shunt current sense 0.005Ω CSS2728"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7718,7 +7718,7 @@
 				)
 			)
 		)
-		(property "ki_fp_filters" "RES_BR3_STP"
+		(property "ki_fp_filters" "Motor_Shunt* CSS2728*"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

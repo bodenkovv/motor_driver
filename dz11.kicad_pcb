@@ -23994,12 +23994,12 @@
 			)
 		)
 	)
-	(footprint "Resistor_THT:R_Bare_Metal_Element_L16.3mm_W4.8mm_P15.30mm"
+	(footprint "Motor_Shunt:CSS2728"
 		(layer "B.Cu")
 		(uuid "47e3fb35-8fdc-49cf-8eb7-cd9f6b9ac874")
 		(at 193.55 96.1 180)
-		(descr "Resistor, Bare_Metal_Element series, Bare Metal Strip/Wire, Horizontal, pin pitch=15.3mm, 3W, length*width=16.3*4.8mm^2, https://www.bourns.com/pdfs/PWR4412-2S.pdf")
-		(tags "Resistor Bare_Metal_Element series Bare Metal Strip Wire Horizontal pin pitch 15.3mm 3W length 16.3mm width 4.8mm ")
+		(descr "Stackpole CSS2728 current sense resistor, 6.71 x 7.19 mm body; derived pad layout")
+		(tags "Stackpole CSS2728 2827 wide shunt current sense resistor")
 		(property "Reference" "R13"
 			(at 8.57 3.27 0)
 			(layer "B.SilkS")
@@ -24012,7 +24012,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "BR3FB5L00"
+		(property "Value" "0.005Ω"
 			(at 7.65 -3.52 0)
 			(layer "B.Fab")
 			(uuid "3c431dc4-69d4-487c-8cef-0b1ee99c28d4")
@@ -24024,7 +24024,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "BR3FB5L00"
+		(property "Datasheet" "https://www.seielect.com/Catalog/SEI-css_cssh.pdf"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -24213,7 +24213,7 @@
 			(uuid "c902ca5d-c5ad-43ec-8e87-bd13d18bcddb")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Bare_Metal_Element_L16.3mm_W4.8mm_P15.30mm.step"
+		(model "${KIPRJMOD}/CSS2728.pretty/3dshapes/CSS2728.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -32606,12 +32606,12 @@
 			)
 		)
 	)
-	(footprint "Resistor_THT:R_Bare_Metal_Element_L16.3mm_W4.8mm_P15.30mm"
+	(footprint "Motor_Shunt:CSS2728"
 		(layer "B.Cu")
 		(uuid "a1da1369-29a0-4d0d-8f46-45c28dca22eb")
 		(at 171.15 96.25 180)
-		(descr "Resistor, Bare_Metal_Element series, Bare Metal Strip/Wire, Horizontal, pin pitch=15.3mm, 3W, length*width=16.3*4.8mm^2, https://www.bourns.com/pdfs/PWR4412-2S.pdf")
-		(tags "Resistor Bare_Metal_Element series Bare Metal Strip Wire Horizontal pin pitch 15.3mm 3W length 16.3mm width 4.8mm ")
+		(descr "Stackpole CSS2728 current sense resistor, 6.71 x 7.19 mm body; derived pad layout")
+		(tags "Stackpole CSS2728 2827 wide shunt current sense resistor")
 		(property "Reference" "R12"
 			(at 7.65 3.52 0)
 			(layer "B.SilkS")
@@ -32624,7 +32624,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "BR3FB5L00"
+		(property "Value" "0.005Ω"
 			(at 7.65 -3.52 0)
 			(layer "B.Fab")
 			(uuid "4193d152-5a20-4840-9984-b5d27fdaf896")
@@ -32636,7 +32636,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "BR3FB5L00"
+		(property "Datasheet" "https://www.seielect.com/Catalog/SEI-css_cssh.pdf"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -32825,7 +32825,7 @@
 			(uuid "7d7b4f7c-3355-4fcc-93f6-dcbdf23fd389")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Bare_Metal_Element_L16.3mm_W4.8mm_P15.30mm.step"
+		(model "${KIPRJMOD}/CSS2728.pretty/3dshapes/CSS2728.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -40484,12 +40484,12 @@
 			)
 		)
 	)
-	(footprint "Resistor_THT:R_Bare_Metal_Element_L16.3mm_W4.8mm_P15.30mm"
+	(footprint "Motor_Shunt:CSS2728"
 		(layer "B.Cu")
 		(uuid "fb3e00aa-6671-4c9e-bd6c-102b111cfdaf")
 		(at 147.9 96 180)
-		(descr "Resistor, Bare_Metal_Element series, Bare Metal Strip/Wire, Horizontal, pin pitch=15.3mm, 3W, length*width=16.3*4.8mm^2, https://www.bourns.com/pdfs/PWR4412-2S.pdf")
-		(tags "Resistor Bare_Metal_Element series Bare Metal Strip Wire Horizontal pin pitch 15.3mm 3W length 16.3mm width 4.8mm ")
+		(descr "Stackpole CSS2728 current sense resistor, 6.71 x 7.19 mm body; derived pad layout")
+		(tags "Stackpole CSS2728 2827 wide shunt current sense resistor")
 		(property "Reference" "R11"
 			(at 7.65 3.52 0)
 			(layer "B.SilkS")
@@ -40502,7 +40502,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "BR3FB5L00"
+		(property "Value" "0.005Ω"
 			(at 7.65 -3.52 0)
 			(layer "B.Fab")
 			(uuid "e13b9b50-a396-43c7-8383-9a7a5010f056")
@@ -40514,7 +40514,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "BR3FB5L00"
+		(property "Datasheet" "https://www.seielect.com/Catalog/SEI-css_cssh.pdf"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -40703,7 +40703,7 @@
 			(uuid "c38609d3-7c27-44a0-8752-6676536763f9")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Bare_Metal_Element_L16.3mm_W4.8mm_P15.30mm.step"
+		(model "${KIPRJMOD}/CSS2728.pretty/3dshapes/CSS2728.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
