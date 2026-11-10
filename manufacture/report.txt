@@ -1,0 +1,13 @@
+Info: X scale constrained.
+Info: Y scale constrained.
+Warning: Width correction constrained.  The width correction value must be in the range of [-0.199999 mm; -0.000002 mm] for the current design rules.
+Info: Output directory 'C:\Users\Yaroslav\Documents\embeded\project\manufacture' created.
+Plotted to 'C:\Users\Yaroslav\Documents\embeded\project\manufacture\dz11-F_Cu.gbr'.
+Plotted to 'C:\Users\Yaroslav\Documents\embeded\project\manufacture\dz11-B_Cu.gbr'.
+Plotted to 'C:\Users\Yaroslav\Documents\embeded\project\manufacture\dz11-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\Yaroslav\Documents\embeded\project\manufacture\dz11-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\Yaroslav\Documents\embeded\project\manufacture\dz11-F_Mask.gbr'.
+Plotted to 'C:\Users\Yaroslav\Documents\embeded\project\manufacture\dz11-B_Mask.gbr'.
+Plotted to 'C:\Users\Yaroslav\Documents\embeded\project\manufacture\dz11-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\Yaroslav\Documents\embeded\project\manufacture\dz11-job.gbrjob'.
+Info: Done.

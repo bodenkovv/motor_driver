@@ -695,9 +695,9 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "./manufacture",
       "specctra_dsn": "../../dz13/dz11_v1.dsn",
-      "step": "",
+      "step": "dz11.stl",
       "vrml": ""
     },
     "page_layout_descr_file": ""
