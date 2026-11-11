@@ -129,7 +129,7 @@
 	(footprint "mouser:WP7113VRCBCA"
 		(layer "F.Cu")
 		(uuid "06925f32-ea10-4600-b1fe-77d1936dfcc8")
-		(at 85.73 120.625)
+		(at 188 132)
 		(descr "WP7113VRCBC/A-2")
 		(tags "LED")
 		(property "Reference" "LED1"
@@ -481,7 +481,7 @@
 	(footprint "mouser:ERJS08_U08__1206_"
 		(layer "F.Cu")
 		(uuid "06cb9b00-5c6e-47e5-a7bb-b72c0ed83b5e")
-		(at 118.3 124.49)
+		(at 181 132)
 		(descr "ERJS08_U08_(1206)")
 		(tags "Resistor")
 		(property "Reference" "R27"
@@ -1072,7 +1072,7 @@
 	(footprint "mouser:EXFSHR1000PF163V"
 		(layer "F.Cu")
 		(uuid "0c5c16b4-8a68-4c53-a59b-37dd34613453")
-		(at 28.63 57.465)
+		(at 145 72)
 		(descr "EXFS/HR 1000PF 1% 63V-2")
 		(tags "Capacitor")
 		(property "Reference" "C12"
@@ -1718,7 +1718,7 @@
 	(footprint "mouser:CAPPM3216X180N"
 		(layer "F.Cu")
 		(uuid "11f62143-f90a-4a42-9fd4-4361e96dd22a")
-		(at 22 118)
+		(at 138 109)
 		(descr "Case A")
 		(tags "Capacitor Polarised")
 		(property "Reference" "C26"
@@ -2308,7 +2308,7 @@
 	(footprint "mouser:RESC1005X40N"
 		(layer "F.Cu")
 		(uuid "177e3583-2db5-4648-9604-2e6c743e979e")
-		(at 60.855 68.94)
+		(at 160 77)
 		(descr "1E(0402)")
 		(tags "Resistor")
 		(property "Reference" "R15"
@@ -2596,7 +2596,7 @@
 	(footprint "mouser:CAPC1608X90N"
 		(layer "F.Cu")
 		(uuid "1a354e7f-5cfc-4544-9f9e-fc795971a55e")
-		(at 60.945 59.84)
+		(at 152 72)
 		(descr "0603-1")
 		(tags "Capacitor")
 		(property "Reference" "C15"
@@ -2884,7 +2884,7 @@
 	(footprint "mouser:RESC1608X50N"
 		(layer "F.Cu")
 		(uuid "1e9d1947-35e2-43fd-b1ed-6f2d0d7f3e19")
-		(at 83 82)
+		(at 152 122)
 		(descr "RCA0603 e3")
 		(tags "Resistor")
 		(property "Reference" "R21"
@@ -3172,7 +3172,7 @@
 	(footprint "mouser:CAPPM3216X180N"
 		(layer "F.Cu")
 		(uuid "1f243993-da15-4e78-b5f1-2451a822acd4")
-		(at 22 121)
+		(at 138 112)
 		(descr "Case A")
 		(tags "Capacitor Polarised")
 		(property "Reference" "C27"
@@ -3490,7 +3490,7 @@
 	(footprint "Connector_Pin:Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork"
 		(layer "F.Cu")
 		(uuid "20a4f990-3cf6-4f6c-9547-058aa08da967")
-		(at 53.505 67.29)
+		(at 194 90)
 		(descr "solder Pin_ with flat fork, hole diameter 0.7mm, length 6.5mm, width 1.8mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "TP6"
@@ -3860,7 +3860,7 @@
 	(footprint "mouser:CAPPRD500W60D1050H1750"
 		(layer "F.Cu")
 		(uuid "22397a55-703c-44f8-9c5f-7ae9ccc7c4f3")
-		(at 55 125)
+		(at 142 142)
 		(descr "10mm x 16mm_2024")
 		(tags "Capacitor Polarised")
 		(property "Reference" "C22"
@@ -4188,7 +4188,7 @@
 	(footprint "mouser:MCS04020C1003FE000"
 		(layer "F.Cu")
 		(uuid "2af1a723-a354-41be-ab4a-5b806d1c60f6")
-		(at 78.93 118.845)
+		(at 175 119)
 		(descr "MCS0402")
 		(tags "Resistor")
 		(property "Reference" "R6"
@@ -4492,7 +4492,7 @@
 	(footprint "mouser:CAPC1608X90N"
 		(layer "F.Cu")
 		(uuid "2d37373b-e258-40c8-9b40-0d0a6d22d1ca")
-		(at 121 49)
+		(at 154 89)
 		(descr "0603-1")
 		(tags "Capacitor")
 		(property "Reference" "C32"
@@ -4780,7 +4780,7 @@
 	(footprint "mouser:MCS04020C1003FE000"
 		(layer "F.Cu")
 		(uuid "2d6dd03b-64a4-4374-a7d7-6470774e666c")
-		(at 160 29)
+		(at 160 69)
 		(descr "MCS0402")
 		(tags "Resistor")
 		(property "Reference" "R23"
@@ -5084,7 +5084,7 @@
 	(footprint "mouser:CAPC1608X90N"
 		(layer "F.Cu")
 		(uuid "301ff345-a9d8-494b-9821-0ec83634b1ab")
-		(at 121 61)
+		(at 154 101)
 		(descr "0603-1")
 		(tags "Capacitor")
 		(property "Reference" "C37"
@@ -5372,7 +5372,7 @@
 	(footprint "Package_TO_SOT_SMD:Nexperia_CFP15_SOT-1289"
 		(layer "F.Cu")
 		(uuid "30986591-f209-47ae-8349-60d6c51db472")
-		(at 40.745 73.605)
+		(at 136 82)
 		(descr "Nexperia CFP15 (SOT-1289), https://assets.nexperia.com/documents/outline-drawing/SOT1289.pdf")
 		(tags "SOT-1289 CFP15")
 		(property "Reference" "D3"
@@ -5711,7 +5711,7 @@
 	(footprint "mouser:EXFSHR1000PF163V"
 		(layer "F.Cu")
 		(uuid "30d81dc0-d064-4956-ab88-55c3675a5b3a")
-		(at 28.63 78.665)
+		(at 145 82)
 		(descr "EXFS/HR 1000PF 1% 63V-2")
 		(tags "Capacitor")
 		(property "Reference" "C14"
@@ -6085,7 +6085,7 @@
 	(footprint "mouser:IRFR7546TRPBF"
 		(layer "F.Cu")
 		(uuid "3133a8f4-2c9f-4e58-a08b-9a5d98686899")
-		(at 70 110)
+		(at 165 142)
 		(descr "TO-252-3_2024")
 		(tags "MOSFET (N-Channel)")
 		(property "Reference" "Q3"
@@ -6428,7 +6428,7 @@
 	(footprint "mouser:CAPC1005X55N"
 		(layer "F.Cu")
 		(uuid "31a69f08-e84f-472c-b972-1a691a296eda")
-		(at 22 127)
+		(at 160 103)
 		(descr "C1005")
 		(tags "Capacitor")
 		(property "Reference" "C29"
@@ -6791,7 +6791,7 @@
 	(footprint "mouser:MCS04020C1003FE000"
 		(layer "F.Cu")
 		(uuid "349bbfb4-fe32-47aa-bd3c-003b859b8866")
-		(at 78.93 115.145)
+		(at 175 116)
 		(descr "MCS0402")
 		(tags "Resistor")
 		(property "Reference" "R5"
@@ -7095,7 +7095,7 @@
 	(footprint "mouser:CAPC2114X95N"
 		(layer "F.Cu")
 		(uuid "34fb0893-7967-4794-a7dc-48d8dece7395")
-		(at 55 123)
+		(at 160 106)
 		(descr "0805..")
 		(tags "Capacitor")
 		(property "Reference" "C30"
@@ -7393,7 +7393,7 @@
 	(footprint "Connector_Pin:Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork"
 		(layer "F.Cu")
 		(uuid "3790a0a4-17f4-4dfa-beaf-51b4663ad79d")
-		(at 53.505 70.74)
+		(at 194 94)
 		(descr "solder Pin_ with flat fork, hole diameter 0.7mm, length 6.5mm, width 1.8mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "TP7"
@@ -7929,7 +7929,7 @@
 	(footprint "Package_QFP:LQFP-64_10x10mm_P0.5mm"
 		(layer "F.Cu")
 		(uuid "3eb01677-f88c-4046-aa83-d7dc81c7deeb")
-		(at 130 55)
+		(at 165 96)
 		(descr "LQFP, 64 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ad7606_7606-6_7606-4.pdf)")
 		(tags "LQFP QFP")
 		(property "Reference" "U1"
@@ -9401,7 +9401,7 @@
 	(footprint "Connector_Pin:Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork"
 		(layer "F.Cu")
 		(uuid "44890a90-0bcc-4275-9c50-92a8915a2ffb")
-		(at 57.305 67.29)
+		(at 194 106)
 		(descr "solder Pin_ with flat fork, hole diameter 0.7mm, length 6.5mm, width 1.8mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "TP10"
@@ -9917,7 +9917,7 @@
 	(footprint "Connector_Pin:Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork"
 		(layer "F.Cu")
 		(uuid "47d633ca-a875-4792-8249-2fd0d09e3bef")
-		(at 57.305 63.84)
+		(at 194 102)
 		(descr "solder Pin_ with flat fork, hole diameter 0.7mm, length 6.5mm, width 1.8mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "TP9"
@@ -10262,7 +10262,7 @@
 	(footprint "Connector_Pin:Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork"
 		(layer "F.Cu")
 		(uuid "4ca7ee74-039e-42dc-af88-ee380f5f8b6b")
-		(at 53.505 63.84)
+		(at 194 86)
 		(descr "solder Pin_ with flat fork, hole diameter 0.7mm, length 6.5mm, width 1.8mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "TP5"
@@ -10506,7 +10506,7 @@
 	(footprint "mouser:RESC1005X40N"
 		(layer "F.Cu")
 		(uuid "4d35fd96-321d-40f4-864e-fc427f67ea7f")
-		(at 60.855 66.79)
+		(at 160 72)
 		(descr "1E(0402)")
 		(tags "Resistor")
 		(property "Reference" "R14"
@@ -10794,7 +10794,7 @@
 	(footprint "mouser:RESC1608X50N"
 		(layer "F.Cu")
 		(uuid "4dd26628-5fc0-484d-ae2a-e8ee68c60ddc")
-		(at 83 85)
+		(at 152 125)
 		(descr "RCA0603 e3")
 		(tags "Resistor")
 		(property "Reference" "R22"
@@ -11082,7 +11082,7 @@
 	(footprint "mouser:EXFSHR1000PF163V"
 		(layer "F.Cu")
 		(uuid "4e1d872d-6d52-4c4c-b968-cb0b935607f9")
-		(at 28.63 68.065)
+		(at 145 77)
 		(descr "EXFS/HR 1000PF 1% 63V-2")
 		(tags "Capacitor")
 		(property "Reference" "C13"
@@ -11456,7 +11456,7 @@
 	(footprint "mouser:CAPC1608X90N"
 		(layer "F.Cu")
 		(uuid "53c8d3ab-9901-43ff-a0b5-cb57e4464eb9")
-		(at 121 67)
+		(at 154 107)
 		(descr "0603-1")
 		(tags "Capacitor")
 		(property "Reference" "C45"
@@ -11744,7 +11744,7 @@
 	(footprint "mouser:LR645N3GP013"
 		(layer "F.Cu")
 		(uuid "5509689c-5354-446e-828c-d394a2a658d1")
-		(at 117.4 119.022)
+		(at 185 96)
 		(descr "-Lead TO-92 (L/LL/N3)")
 		(tags "Integrated Circuit")
 		(property "Reference" "IC3"
@@ -12146,7 +12146,7 @@
 	(footprint "Connector_Pin:Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork"
 		(layer "F.Cu")
 		(uuid "568a1e59-47fd-461f-8215-e8c7ebb989b7")
-		(at 105.995 92.05)
+		(at 194 78)
 		(descr "solder Pin_ with flat fork, hole diameter 0.7mm, length 6.5mm, width 1.8mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "TP3"
@@ -12390,7 +12390,7 @@
 	(footprint "mouser:CAPC4532X180N"
 		(layer "F.Cu")
 		(uuid "56fd8cfa-ad1b-4b21-90e4-777c26aedb80")
-		(at 48.3 65.97)
+		(at 188 104)
 		(descr "EIA 1210")
 		(tags "Capacitor")
 		(property "Reference" "C10"
@@ -12662,7 +12662,7 @@
 	(footprint "Connector_Pin:Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork"
 		(layer "F.Cu")
 		(uuid "5b63e21c-4a7b-40ce-918e-56e0cb6b9037")
-		(at 105.995 85.15)
+		(at 194 70)
 		(descr "solder Pin_ with flat fork, hole diameter 0.7mm, length 6.5mm, width 1.8mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "TP1"
@@ -12906,7 +12906,7 @@
 	(footprint "mouser:QFP50P900X900X120-48N"
 		(layer "F.Cu")
 		(uuid "5e1e7bef-014a-43e8-a724-720147215cb1")
-		(at 95 75)
+		(at 165 118)
 		(descr "PHP (S-PQFP-G48)")
 		(tags "Integrated Circuit")
 		(property "Reference" "IC1"
@@ -13673,7 +13673,7 @@
 	(footprint "Connector_Pin:Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork"
 		(layer "F.Cu")
 		(uuid "5e35da03-c059-41e1-a38d-352bdbdfd16e")
-		(at 105.995 88.6)
+		(at 194 74)
 		(descr "solder Pin_ with flat fork, hole diameter 0.7mm, length 6.5mm, width 1.8mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "TP2"
@@ -13917,7 +13917,7 @@
 	(footprint "mouser:RGEF500"
 		(layer "F.Cu")
 		(uuid "5ede698e-27dd-41bf-96a4-05ef0d452486")
-		(at 85 130)
+		(at 181 147)
 		(descr "RGEF500-6")
 		(tags "Resettable Fuse")
 		(property "Reference" "F1"
@@ -14243,7 +14243,7 @@
 	(footprint "mouser:MCS04020C1003FE000"
 		(layer "F.Cu")
 		(uuid "5f12de5e-c5f2-4b7c-9840-fc92c1e1a973")
-		(at 78.93 122.545)
+		(at 175 122)
 		(descr "MCS0402")
 		(tags "Resistor")
 		(property "Reference" "R7"
@@ -14547,7 +14547,7 @@
 	(footprint "mouser:RESC2012X60N"
 		(layer "F.Cu")
 		(uuid "5f7cdfc3-ecc0-48b4-bbd7-57a29e31f7ba")
-		(at 53.83 73.94)
+		(at 170 100)
 		(descr "2A")
 		(tags "Resistor")
 		(property "Reference" "R8"
@@ -14845,7 +14845,7 @@
 	(footprint "RF_Module:Microchip_RN4871"
 		(layer "F.Cu")
 		(uuid "602eb180-df95-4c72-b4e1-006977c0208e")
-		(at 170 35)
+		(at 170 75)
 		(descr "Microchip RN4871 footprint")
 		(tags "RN4871 BLE")
 		(property "Reference" "U2"
@@ -15251,7 +15251,7 @@
 			)
 			(polygon
 				(pts
-					(xy 168.4 34.25) (xy 166.5 34.25) (xy 166.5 30.75) (xy 168.4 30.75)
+					(xy 168.4 74.25) (xy 166.5 74.25) (xy 166.5 70.75) (xy 168.4 70.75)
 				)
 			)
 		)
@@ -15281,7 +15281,7 @@
 			)
 			(polygon
 				(pts
-					(xy 169.8 36.7) (xy 173.5 36.7) (xy 173.5 31.25) (xy 169.8 31.25)
+					(xy 169.8 76.7) (xy 173.5 76.7) (xy 173.5 71.25) (xy 169.8 71.25)
 				)
 			)
 		)
@@ -15311,7 +15311,7 @@
 			)
 			(polygon
 				(pts
-					(xy 165.5 30.75) (xy 174.5 30.75) (xy 174.5 26.75) (xy 165.5 26.75)
+					(xy 165.5 70.75) (xy 174.5 70.75) (xy 174.5 66.75) (xy 165.5 66.75)
 				)
 			)
 		)
@@ -15331,7 +15331,7 @@
 	(footprint "mouser:IRFR7546TRPBF"
 		(layer "F.Cu")
 		(uuid "60401ae3-32ae-49b7-b80c-906af671ade2")
-		(at 60 110)
+		(at 155 142)
 		(descr "TO-252-3_2024")
 		(tags "MOSFET (N-Channel)")
 		(property "Reference" "Q2"
@@ -15674,7 +15674,7 @@
 	(footprint "mouser:LM7812SXNOPB"
 		(layer "F.Cu")
 		(uuid "64c67ff8-ba45-4be3-bb52-83d2abc7678b")
-		(at 47.61 90.375)
+		(at 182 106)
 		(descr "KTT0003B_2024")
 		(tags "Integrated Circuit")
 		(property "Reference" "IC2"
@@ -16031,7 +16031,7 @@
 	(footprint "mouser:CAPC4532X180N"
 		(layer "F.Cu")
 		(uuid "66008777-677d-467c-adb8-ad55d0811cd1")
-		(at 48.3 70.84)
+		(at 188 108)
 		(descr "EIA 1210")
 		(tags "Capacitor")
 		(property "Reference" "C11"
@@ -16303,7 +16303,7 @@
 	(footprint "mouser:CAPC4532X180N"
 		(layer "F.Cu")
 		(uuid "69ba7a4e-e79d-47fb-b095-1fa7fdeecb2a")
-		(at 48.3 61.1)
+		(at 188 100)
 		(descr "EIA 1210")
 		(tags "Capacitor")
 		(property "Reference" "C9"
@@ -16575,7 +16575,7 @@
 	(footprint "mouser:MCS04020C1003FE000"
 		(layer "F.Cu")
 		(uuid "6d066e20-925b-4d5e-99c9-096d94bb769f")
-		(at 78.93 111.445)
+		(at 175 113)
 		(descr "MCS0402")
 		(tags "Resistor")
 		(property "Reference" "R4"
@@ -16879,7 +16879,7 @@
 	(footprint "Motor_Shunt:CSS2728"
 		(layer "F.Cu")
 		(uuid "6eb96ace-2bd1-4c78-87f6-765146d88d08")
-		(at 65 92 90)
+		(at 155 132 90)
 		(descr "Stackpole CSS2728 current sense resistor, 6.71 x 7.19 mm body; derived pad layout")
 		(tags "Stackpole CSS2728 2827 wide shunt current sense resistor")
 		(property "Reference" "R11"
@@ -17190,7 +17190,7 @@
 	(footprint "mouser:CAPC1608X80N"
 		(layer "F.Cu")
 		(uuid "70fa409c-24d9-4294-bc8a-d2838922e0bc")
-		(at 106 70)
+		(at 178 110)
 		(descr "885012206034")
 		(tags "Capacitor")
 		(property "Reference" "C18"
@@ -17478,7 +17478,7 @@
 	(footprint "mouser:LFXTAL072100REEL"
 		(layer "F.Cu")
 		(uuid "71c8974c-c780-4b48-8f62-94ba2ea4e884")
-		(at 116 55)
+		(at 150 96)
 		(descr "LFXTAL072100REEL-2")
 		(tags "Crystal or Oscillator")
 		(property "Reference" "Y1"
@@ -18069,7 +18069,7 @@
 	(footprint "mouser:CAPC1005X55N"
 		(layer "F.Cu")
 		(uuid "72b46bb5-7bc1-40fc-a70e-26a4ca46c9ea")
-		(at 160 43)
+		(at 160 83)
 		(descr "C1005")
 		(tags "Capacitor")
 		(property "Reference" "C40"
@@ -18357,7 +18357,7 @@
 	(footprint "mouser:CAPC1005X55N"
 		(layer "F.Cu")
 		(uuid "7396c52f-7bc0-4ac7-80c8-7fd3be0cbcaa")
-		(at 160 45)
+		(at 160 85)
 		(descr "C1005")
 		(tags "Capacitor")
 		(property "Reference" "C41"
@@ -18645,7 +18645,7 @@
 	(footprint "mouser:IRFR7546TRPBF"
 		(layer "F.Cu")
 		(uuid "768317cc-988d-45ec-904c-cb0d3bc6df5d")
-		(at 50 110)
+		(at 145 142)
 		(descr "TO-252-3_2024")
 		(tags "MOSFET (N-Channel)")
 		(property "Reference" "Q1"
@@ -18988,7 +18988,7 @@
 	(footprint "mouser:GCM21"
 		(layer "F.Cu")
 		(uuid "7b239018-d22a-4342-8668-3001095bfb35")
-		(at 160 47)
+		(at 160 87)
 		(descr "GCM21")
 		(tags "Capacitor")
 		(property "Reference" "C42"
@@ -19302,7 +19302,7 @@
 	(footprint "mouser:WP7113VRCBCA"
 		(layer "F.Cu")
 		(uuid "7b83b36b-c23c-4c75-9fe0-9b5976377a3a")
-		(at 118.55 109.125)
+		(at 188 138)
 		(descr "WP7113VRCBC/A-2")
 		(tags "LED")
 		(property "Reference" "LED2"
@@ -19654,7 +19654,7 @@
 	(footprint "mouser:CAPC4532X180N"
 		(layer "F.Cu")
 		(uuid "7c57b8e6-8174-4119-b764-61434103e2c6")
-		(at 160 51)
+		(at 160 91)
 		(descr "EIA 1210")
 		(tags "Capacitor")
 		(property "Reference" "C44"
@@ -19926,7 +19926,7 @@
 	(footprint "mouser:MCS04020C1003FE000"
 		(layer "F.Cu")
 		(uuid "7fa9ea92-8b92-4a52-9394-d51f1a4e47f8")
-		(at 78.93 107.745)
+		(at 175 110)
 		(descr "MCS0402")
 		(tags "Resistor")
 		(property "Reference" "R2"
@@ -20544,7 +20544,7 @@
 	(footprint "mouser:HDRV1W100P100X300_1X1_100X100X100P"
 		(layer "F.Cu")
 		(uuid "82246722-d4e3-46b9-a8cb-dae0c77ffa67")
-		(at 120 95)
+		(at 135 66)
 		(descr "1")
 		(tags "Connector")
 		(property "Reference" "J1"
@@ -20865,7 +20865,7 @@
 	(footprint "mouser:CAPC1608X80N"
 		(layer "F.Cu")
 		(uuid "82b583df-3704-4ecd-8cdb-539bd954fd8f")
-		(at 106 73)
+		(at 178 113)
 		(descr "885012206034")
 		(tags "Capacitor")
 		(property "Reference" "C19"
@@ -21153,7 +21153,7 @@
 	(footprint "mouser:BLM18SP221SN1B"
 		(layer "F.Cu")
 		(uuid "834a48f5-48c9-4f29-9184-e7698a2f9bc3")
-		(at 154 35)
+		(at 158 75)
 		(descr "BLM18_3 L=1.6 W=0.8 T=0.8")
 		(tags "Ferrite Bead")
 		(property "Reference" "FB2"
@@ -21451,7 +21451,7 @@
 	(footprint "mouser:CAPC1608X90N"
 		(layer "F.Cu")
 		(uuid "84123e42-6ec2-44d9-b98d-dec38193c5b9")
-		(at 60.945 64.54)
+		(at 152 82)
 		(descr "0603-1")
 		(tags "Capacitor")
 		(property "Reference" "C17"
@@ -21739,7 +21739,7 @@
 	(footprint "mouser:CAPC1608X80N"
 		(layer "F.Cu")
 		(uuid "884f8ece-04c4-41e7-8a6f-cf06664c0dfa")
-		(at 106 76)
+		(at 178 116)
 		(descr "885012206034")
 		(tags "Capacitor")
 		(property "Reference" "C20"
@@ -22027,7 +22027,7 @@
 	(footprint "mouser:RESC1608X50N"
 		(layer "F.Cu")
 		(uuid "88fac119-012a-49a8-a909-cb0b0c70baf3")
-		(at 83 76)
+		(at 152 116)
 		(descr "RCA0603 e3")
 		(tags "Resistor")
 		(property "Reference" "R19"
@@ -22441,7 +22441,7 @@
 	(footprint "Package_TO_SOT_SMD:Nexperia_CFP15_SOT-1289"
 		(layer "F.Cu")
 		(uuid "8d805ba6-948e-4718-a256-74ca0664a1ff")
-		(at 40.745 61.695)
+		(at 136 72)
 		(descr "Nexperia CFP15 (SOT-1289), https://assets.nexperia.com/documents/outline-drawing/SOT1289.pdf")
 		(tags "SOT-1289 CFP15")
 		(property "Reference" "D1"
@@ -22780,7 +22780,7 @@
 	(footprint "mouser:RESC1608X50N"
 		(layer "F.Cu")
 		(uuid "8ea7927d-a668-4e34-b0e2-8a5a2d03028b")
-		(at 83 73)
+		(at 152 113)
 		(descr "RCA0603 e3")
 		(tags "Resistor")
 		(property "Reference" "R18"
@@ -23068,7 +23068,7 @@
 	(footprint "Capacitor_SMD:C_01005_0402Metric"
 		(layer "F.Cu")
 		(uuid "8f125344-29ed-4a1b-9546-388afc7a17c9")
-		(at 160 41)
+		(at 160 81)
 		(descr "Capacitor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C39"
@@ -23232,7 +23232,7 @@
 	(footprint "mouser:RESC1608X50N"
 		(layer "F.Cu")
 		(uuid "94f14769-4a83-45ba-b8c4-5650864d31ed")
-		(at 83 79)
+		(at 152 119)
 		(descr "RCA0603 e3")
 		(tags "Resistor")
 		(property "Reference" "R20"
@@ -23520,7 +23520,7 @@
 	(footprint "mouser:INDPM120120X1020N"
 		(layer "F.Cu")
 		(uuid "973e0627-154a-45ff-85b7-be55d3a8e5de")
-		(at 55 118)
+		(at 157 108)
 		(descr "MSS1210")
 		(tags "Inductor")
 		(property "Reference" "L1"
@@ -23828,7 +23828,7 @@
 	(footprint "mouser:MCS04020C1003FE000"
 		(layer "F.Cu")
 		(uuid "9a3f506f-d421-47d2-a644-0955c6f73976")
-		(at 160 37)
+		(at 160 78)
 		(descr "MCS0402")
 		(tags "Resistor")
 		(property "Reference" "R28"
@@ -24132,7 +24132,7 @@
 	(footprint "mouser:GCM21"
 		(layer "F.Cu")
 		(uuid "9ae8979e-5ed5-4ec5-888f-f29fa0618f54")
-		(at 160 49)
+		(at 160 89)
 		(descr "GCM21")
 		(tags "Capacitor")
 		(property "Reference" "C43"
@@ -24446,7 +24446,7 @@
 	(footprint "Package_TO_SOT_SMD:Nexperia_CFP15_SOT-1289"
 		(layer "F.Cu")
 		(uuid "9b672255-2afe-4c40-9644-8a62d04a90b8")
-		(at 40.745 67.65)
+		(at 136 77)
 		(descr "Nexperia CFP15 (SOT-1289), https://assets.nexperia.com/documents/outline-drawing/SOT1289.pdf")
 		(tags "SOT-1289 CFP15")
 		(property "Reference" "D2"
@@ -24785,7 +24785,7 @@
 	(footprint "mouser:CAPC1608X90N"
 		(layer "F.Cu")
 		(uuid "9bee6804-e127-48cc-8ab6-1731f2a9a556")
-		(at 121 55)
+		(at 154 95)
 		(descr "0603-1")
 		(tags "Capacitor")
 		(property "Reference" "C34"
@@ -25073,7 +25073,7 @@
 	(footprint "mouser:ERJS08_U08__1206_"
 		(layer "F.Cu")
 		(uuid "9c2a6c34-7f56-4236-9bfa-0242ee8a7e3c")
-		(at 85.48 128.72)
+		(at 181 138)
 		(descr "ERJS08_U08_(1206)")
 		(tags "Resistor")
 		(property "Reference" "R3"
@@ -25346,7 +25346,7 @@
 	(footprint "Motor_Shunt:CSS2728"
 		(layer "F.Cu")
 		(uuid "9e44b1e6-47eb-4db4-a625-d601e18362ed")
-		(at 85 92 90)
+		(at 175 132 90)
 		(descr "Stackpole CSS2728 current sense resistor, 6.71 x 7.19 mm body; derived pad layout")
 		(tags "Stackpole CSS2728 2827 wide shunt current sense resistor")
 		(property "Reference" "R13"
@@ -25556,7 +25556,7 @@
 	(footprint "Connector_Pin:Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork"
 		(layer "F.Cu")
 		(uuid "a01ef6eb-30b1-41d2-a1b1-4ce2b646f3c2")
-		(at 53.505 60.39)
+		(at 194 82)
 		(descr "solder Pin_ with flat fork, hole diameter 0.7mm, length 6.5mm, width 1.8mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "TP4"
@@ -25800,7 +25800,7 @@
 	(footprint "mouser:IRFR7546TRPBF"
 		(layer "F.Cu")
 		(uuid "a2046c3f-f545-475f-93f3-d073af14ccdc")
-		(at 100 110)
+		(at 195 142)
 		(descr "TO-252-3_2024")
 		(tags "MOSFET (N-Channel)")
 		(property "Reference" "Q6"
@@ -26257,7 +26257,7 @@
 	(footprint "mouser:CAPC3225X230N"
 		(layer "F.Cu")
 		(uuid "a90f5750-1d1c-4de3-8cf7-03eda1d13318")
-		(at 22 114)
+		(at 138 106)
 		(descr "C3225 [EIA CC1210] Thickness 2.5")
 		(tags "Capacitor")
 		(property "Reference" "C25"
@@ -26555,7 +26555,7 @@
 	(footprint "mouser:RESC1005X40N"
 		(layer "F.Cu")
 		(uuid "a932909c-69e5-4684-843b-18062bc17257")
-		(at 60.855 71.09)
+		(at 160 82)
 		(descr "1E(0402)")
 		(tags "Resistor")
 		(property "Reference" "R16"
@@ -26843,7 +26843,7 @@
 	(footprint "Button_Switch_THT:SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm"
 		(layer "F.Cu")
 		(uuid "b25b3652-eae6-49ea-8f2f-bdfac83ed719")
-		(at 146 62)
+		(at 183 102)
 		(descr "Wuerth, WS-SLTV, 450301014042, https://www.we-online.com/components/products/datasheet/450301014042.pdf")
 		(tags "switch single-pole opposite-side-connection double-throw SPDT würth wurth")
 		(property "Reference" "SW1"
@@ -27272,7 +27272,7 @@
 	(footprint "mouser:SOT95P280X110-6N"
 		(layer "F.Cu")
 		(uuid "bdfef6ab-b19d-4ff8-8710-91693c3385b6")
-		(at 40 118)
+		(at 145 108)
 		(descr "TPS54202DDCT")
 		(tags "Power Supply")
 		(property "Reference" "PS1"
@@ -27656,7 +27656,7 @@
 	(footprint "mouser:XT30PWM"
 		(layer "F.Cu")
 		(uuid "beb2c87c-e4e0-4581-a49e-879e6f65357a")
-		(at 75 135)
+		(at 165 148)
 		(descr "XT30PW-M")
 		(tags "Connector")
 		(property "Reference" "J4"
@@ -28040,7 +28040,7 @@
 	(footprint "mouser:RESC2012X60N"
 		(layer "F.Cu")
 		(uuid "c6d0c9a1-5fb5-4276-b17e-7a0051e82a77")
-		(at 53.83 79.84)
+		(at 170 106)
 		(descr "2A")
 		(tags "Resistor")
 		(property "Reference" "R10"
@@ -28338,7 +28338,7 @@
 	(footprint "mouser:MCS04020C1003FE000"
 		(layer "F.Cu")
 		(uuid "c86f6115-6678-4be2-bdac-2ed3d76d3306")
-		(at 160 33)
+		(at 160 72)
 		(descr "MCS0402")
 		(tags "Resistor")
 		(property "Reference" "R25"
@@ -28642,7 +28642,7 @@
 	(footprint "mouser:GCM31C5C2E183FX03L"
 		(layer "F.Cu")
 		(uuid "c9578fa7-bf6c-4f95-b0b0-30d5e17fa215")
-		(at 106 84)
+		(at 178 124)
 		(descr "GCM31")
 		(tags "Capacitor")
 		(property "Reference" "C5"
@@ -28956,7 +28956,7 @@
 	(footprint "mouser:DIOM5436X244N"
 		(layer "F.Cu")
 		(uuid "ca7d7117-6945-4a89-833c-d599179aa00f")
-		(at 65 130)
+		(at 150 147)
 		(descr "DO-214AA")
 		(tags "TVS Diode (Uni-directional)")
 		(property "Reference" "D6"
@@ -29248,7 +29248,7 @@
 	(footprint "mouser:RESC1608X50N"
 		(layer "F.Cu")
 		(uuid "cbc76af4-ae0b-4547-9534-3020eb53ec84")
-		(at 83 70)
+		(at 152 110)
 		(descr "RCA0603 e3")
 		(tags "Resistor")
 		(property "Reference" "R17"
@@ -29536,7 +29536,7 @@
 	(footprint "mouser:CAPC1608X90N"
 		(layer "F.Cu")
 		(uuid "d0615a2a-7070-41ba-b45d-f883a4e2ff11")
-		(at 22 124)
+		(at 160 100)
 		(descr "0603-1")
 		(tags "Capacitor")
 		(property "Reference" "C28"
@@ -29824,7 +29824,7 @@
 	(footprint "mouser:TL1220R2BBBRRESET"
 		(layer "F.Cu")
 		(uuid "d3164a40-fffd-4808-bd13-773cc91c06c5")
-		(at 146 55)
+		(at 183 95)
 		(descr "TL1220R2BBBRRESET-2")
 		(tags "Switch")
 		(property "Reference" "S1"
@@ -30253,7 +30253,7 @@
 	(footprint "mouser:DIOM5126X250N"
 		(layer "F.Cu")
 		(uuid "d8b6532c-daf4-41d8-9bfa-f950a37f6c4a")
-		(at 40 112)
+		(at 145 102)
 		(descr "DO-214AC (SMA)")
 		(tags "Schottky Diode")
 		(property "Reference" "D5"
@@ -30571,7 +30571,7 @@
 	(footprint "mouser:IRFR7546TRPBF"
 		(layer "F.Cu")
 		(uuid "dbefaf19-9324-44b2-8997-fa54d8b488e0")
-		(at 80 110)
+		(at 175 142)
 		(descr "TO-252-3_2024")
 		(tags "MOSFET (N-Channel)")
 		(property "Reference" "Q4"
@@ -31186,7 +31186,7 @@
 	(footprint "mouser:CAPC1608X90N"
 		(layer "F.Cu")
 		(uuid "dfdd2b58-92c2-42be-aefa-7803efdbbd63")
-		(at 22 111)
+		(at 138 103)
 		(descr "0603-1")
 		(tags "Capacitor")
 		(property "Reference" "C24"
@@ -31474,7 +31474,7 @@
 	(footprint "Motor_Shunt:CSS2728"
 		(layer "F.Cu")
 		(uuid "e0aa5a98-3492-4f91-8a7d-1e84441f6a5f")
-		(at 75 92 90)
+		(at 165 132 90)
 		(descr "Stackpole CSS2728 current sense resistor, 6.71 x 7.19 mm body; derived pad layout")
 		(tags "Stackpole CSS2728 2827 wide shunt current sense resistor")
 		(property "Reference" "R12"
@@ -31684,7 +31684,7 @@
 	(footprint "mouser:1792892"
 		(layer "F.Cu")
 		(uuid "e250a111-8f1e-4ddd-8c68-badc95a26e55")
-		(at 145 95)
+		(at 170 66)
 		(descr "1792892-2")
 		(tags "Connector")
 		(property "Reference" "J3"
@@ -32091,7 +32091,7 @@
 	(footprint "mouser:IRFR7546TRPBF"
 		(layer "F.Cu")
 		(uuid "e38ca271-1057-4422-9911-73fb97bf1afe")
-		(at 90 110)
+		(at 185 142)
 		(descr "TO-252-3_2024")
 		(tags "MOSFET (N-Channel)")
 		(property "Reference" "Q5"
@@ -32434,7 +32434,7 @@
 	(footprint "mouser:CAPC1608X90N"
 		(layer "F.Cu")
 		(uuid "e787fc85-b883-4a37-a00e-b9c1ccdb8071")
-		(at 22 108)
+		(at 138 100)
 		(descr "0603-1")
 		(tags "Capacitor")
 		(property "Reference" "C21"
@@ -32722,7 +32722,7 @@
 	(footprint "mouser:CAPC1608X90N"
 		(layer "F.Cu")
 		(uuid "eaae8da1-f960-4575-94be-e40b0a94f10e")
-		(at 60.945 62.19)
+		(at 152 77)
 		(descr "0603-1")
 		(tags "Capacitor")
 		(property "Reference" "C16"
@@ -33010,7 +33010,7 @@
 	(footprint "Connector_Pin:Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork"
 		(layer "F.Cu")
 		(uuid "ebacc5f6-5a6f-43b6-889a-d6a884042a4e")
-		(at 57.305 60.39)
+		(at 194 98)
 		(descr "solder Pin_ with flat fork, hole diameter 0.7mm, length 6.5mm, width 1.8mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "TP8"
@@ -33254,7 +33254,7 @@
 	(footprint "mouser:CAPPRD500W60D1050H1750"
 		(layer "F.Cu")
 		(uuid "ed950f87-cb9c-42ae-ae5f-2daee000a0ff")
-		(at 95 125)
+		(at 188 142)
 		(descr "10mm x 16mm_2024")
 		(tags "Capacitor Polarised")
 		(property "Reference" "C23"
@@ -33462,7 +33462,7 @@
 	(footprint "mouser:CAPC1608X90N"
 		(layer "F.Cu")
 		(uuid "f362e247-2451-4d7f-a43c-3235b14fc50f")
-		(at 121 58)
+		(at 154 98)
 		(descr "0603-1")
 		(tags "Capacitor")
 		(property "Reference" "C35"
@@ -34023,7 +34023,7 @@
 	(footprint "mouser:HDRV3W66P0X254_1X3_762X229X838P"
 		(layer "F.Cu")
 		(uuid "f5260890-d0ec-48db-9e39-54faafc50c3f")
-		(at 130 95)
+		(at 150 66)
 		(descr "22-28-4030")
 		(tags "Connector")
 		(property "Reference" "J2"
@@ -34366,7 +34366,7 @@
 	(footprint "mouser:CAPC1608X90N"
 		(layer "F.Cu")
 		(uuid "f6728e7d-4f22-4499-8a65-017427101853")
-		(at 121 52)
+		(at 154 92)
 		(descr "0603-1")
 		(tags "Capacitor")
 		(property "Reference" "C33"
@@ -34654,7 +34654,7 @@
 	(footprint "mouser:CAPC1608X90N"
 		(layer "F.Cu")
 		(uuid "f8921c70-6430-4e54-8e4b-bde1403e68f0")
-		(at 121 64)
+		(at 154 104)
 		(descr "0603-1")
 		(tags "Capacitor")
 		(property "Reference" "C38"
@@ -34942,7 +34942,7 @@
 	(footprint "mouser:GCM31C5C2E183FX03L"
 		(layer "F.Cu")
 		(uuid "f9b19119-25a6-4d3e-bc14-3aaf10e5cf03")
-		(at 106 80)
+		(at 178 120)
 		(descr "GCM31")
 		(tags "Capacitor")
 		(property "Reference" "C4"
@@ -35529,7 +35529,7 @@
 	(footprint "mouser:RESC2012X60N"
 		(layer "F.Cu")
 		(uuid "fb8b7025-7a5e-4d31-b8eb-09cbe261b612")
-		(at 53.83 76.89)
+		(at 170 103)
 		(descr "2A")
 		(tags "Resistor")
 		(property "Reference" "R9"
@@ -35827,7 +35827,7 @@
 	(footprint "mouser:CAPC1005X70N"
 		(layer "F.Cu")
 		(uuid "ffe4eaf1-8b9e-42f8-9a7d-ae97c40174a8")
-		(at 22 130)
+		(at 160 109)
 		(descr "GRM15_0.10 L=1.0mm W=0.5mm T=0.5mm")
 		(tags "Capacitor")
 		(property "Reference" "C31"
