@@ -1072,7 +1072,7 @@
 	(footprint "mouser:EXFSHR1000PF163V"
 		(layer "F.Cu")
 		(uuid "0c5c16b4-8a68-4c53-a59b-37dd34613453")
-		(at 142.21 136.79)
+		(at 142.5 136.75)
 		(descr "EXFS/HR 1000PF 1% 63V-2")
 		(tags "Capacitor")
 		(property "Reference" "C12"
@@ -4194,7 +4194,7 @@
 		(descr "MCS0402")
 		(tags "Resistor")
 		(property "Reference" "R6"
-			(at 0 2.5 0)
+			(at -1.975 -0.25 0)
 			(layer "F.SilkS")
 			(uuid "b4e24639-b9aa-48f5-8e81-d8ef886207c1")
 			(effects
@@ -4448,17 +4448,6 @@
 			)
 			(layer "F.Fab")
 			(uuid "612b86ee-4678-47e0-bd83-789ced1e3366")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 -2.5 0)
-			(layer "F.Fab")
-			(uuid "51545092-93a0-420b-b3e2-27f2663344fa")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-				)
-			)
 		)
 		(pad "1" smd rect
 			(at -0.475 0)
@@ -6798,7 +6787,7 @@
 		(descr "MCS0402")
 		(tags "Resistor")
 		(property "Reference" "R5"
-			(at 0 2.5 0)
+			(at -1.975 -0.75 0)
 			(layer "F.SilkS")
 			(uuid "18c1dada-6f8b-4633-bfac-503a57e7b99c")
 			(effects
@@ -7052,17 +7041,6 @@
 			)
 			(layer "F.Fab")
 			(uuid "7916fe86-d5d7-4e08-9ce4-8f825ca101c9")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 -2.5 0)
-			(layer "F.Fab")
-			(uuid "f244894e-53e1-46fe-929b-126a64f0d71e")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-				)
-			)
 		)
 		(pad "1" smd rect
 			(at -0.475 0)
@@ -8981,7 +8959,7 @@
 	(footprint "NetTie:NetTie-2_SMD_Pad0.5mm"
 		(layer "F.Cu")
 		(uuid "3fff3a71-e3ce-4b86-b573-06910ec2bb22")
-		(at 142.162 73 90)
+		(at 142.75 73 90)
 		(descr "Net tie, 2 pin, 0.5mm square SMD pads")
 		(tags "net tie")
 		(property "Reference" "NT1"
@@ -12387,7 +12365,7 @@
 		(descr "EIA 1210")
 		(tags "Capacitor")
 		(property "Reference" "C10"
-			(at 0 3 90)
+			(at -0.27 -0.75 90)
 			(layer "F.SilkS")
 			(uuid "254766c8-4587-43e0-a36c-e8af9fe04229")
 			(effects
@@ -12609,17 +12587,6 @@
 			)
 			(layer "F.Fab")
 			(uuid "3fd91df0-f82c-4f29-933f-8537a8213d45")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 -3 90)
-			(layer "F.Fab")
-			(uuid "f4c6d6b0-9c16-4225-8dbd-690c5c9e856c")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-				)
-			)
 		)
 		(pad "1" smd rect
 			(at -1.98 0 90)
@@ -14495,17 +14462,6 @@
 			(layer "F.Fab")
 			(uuid "e1e95e9c-5d5d-41ee-8a03-5bdd4e05c210")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 -2.5 0)
-			(layer "F.Fab")
-			(uuid "433c957a-261c-450b-ac8b-348e4a9f08e4")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-				)
-			)
-		)
 		(pad "1" smd rect
 			(at -0.475 0)
 			(size 0.55 0.6)
@@ -16251,17 +16207,6 @@
 			(layer "F.Fab")
 			(uuid "1f329cf0-df89-42b3-8976-ff707f479a2a")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 -3 90)
-			(layer "F.Fab")
-			(uuid "11828f0e-b189-4e5b-a020-0b011be90dcb")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-				)
-			)
-		)
 		(pad "1" smd rect
 			(at -1.98 0 90)
 			(size 1.25 3.52)
@@ -16300,7 +16245,7 @@
 		(descr "EIA 1210")
 		(tags "Capacitor")
 		(property "Reference" "C9"
-			(at 0 3 90)
+			(at -0.27 -2.75 90)
 			(layer "F.SilkS")
 			(uuid "3175a07f-686b-4ff3-a603-a98e4932047f")
 			(effects
@@ -16523,17 +16468,6 @@
 			(layer "F.Fab")
 			(uuid "ced012be-bc37-4022-b7ea-6d9dc29a9c81")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 -3 90)
-			(layer "F.Fab")
-			(uuid "da9d725d-7f77-4a79-82ed-57fb9a184d4b")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-				)
-			)
-		)
 		(pad "1" smd rect
 			(at -1.98 0 90)
 			(size 1.25 3.52)
@@ -16572,7 +16506,7 @@
 		(descr "MCS0402")
 		(tags "Resistor")
 		(property "Reference" "R4"
-			(at 0 2.5 0)
+			(at -2.225 0 0)
 			(layer "F.SilkS")
 			(uuid "de2f930c-9c49-43bf-8f95-d6532d988133")
 			(effects
@@ -16827,17 +16761,6 @@
 			(layer "F.Fab")
 			(uuid "2ee011a0-a18d-4663-bdc9-f0a930a7cc3b")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 -2.5 0)
-			(layer "F.Fab")
-			(uuid "8a84a679-d815-4dfe-8eb5-a05b5a6148d8")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-				)
-			)
-		)
 		(pad "1" smd rect
 			(at -0.475 0)
 			(size 0.55 0.6)
@@ -16872,7 +16795,7 @@
 	(footprint "Motor_Shunt:CSS2728"
 		(layer "F.Cu")
 		(uuid "6eb96ace-2bd1-4c78-87f6-765146d88d08")
-		(at 134.5 134.96 90)
+		(at 134.79 134.92 90)
 		(descr "Stackpole CSS2728 current sense resistor, 6.71 x 7.19 mm body; derived pad layout")
 		(tags "Stackpole CSS2728 2827 wide shunt current sense resistor")
 		(property "Reference" "R11"
@@ -17082,7 +17005,7 @@
 	(footprint "NetTie:NetTie-2_SMD_Pad0.5mm"
 		(layer "F.Cu")
 		(uuid "6f719435-b1d0-44e6-b15e-22114ac1b35b")
-		(at 147.662 72.75 90)
+		(at 144.25 102.75 -90)
 		(descr "Net tie, 2 pin, 0.5mm square SMD pads")
 		(tags "net tie")
 		(property "Reference" "NT4"
@@ -17110,7 +17033,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -17123,7 +17046,7 @@
 			)
 		)
 		(property "Description" "Net tie, 2 pins"
-			(at 0 0 90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -17161,7 +17084,7 @@
 			(uuid "3cdb7b7f-732c-40f4-b7d5-319727ddac85")
 		)
 		(pad "1" smd circle
-			(at -0.5 0 90)
+			(at -0.5 0 270)
 			(size 0.5 0.5)
 			(layers "F.Cu")
 			(net "Net-(D5-K)")
@@ -17170,7 +17093,7 @@
 			(uuid "6ca3ca71-c90f-4138-a966-6466710cfe66")
 		)
 		(pad "2" smd circle
-			(at 0.5 0 90)
+			(at 0.5 0 270)
 			(size 0.5 0.5)
 			(layers "F.Cu")
 			(net "Net-(PS1-VIN)")
@@ -18062,7 +17985,7 @@
 	(footprint "mouser:CAPC1005X55N"
 		(layer "F.Cu")
 		(uuid "72b46bb5-7bc1-40fc-a70e-26a4ca46c9ea")
-		(at 161.55 83.75)
+		(at 169.7 86.25 180)
 		(descr "C1005")
 		(tags "Capacitor")
 		(property "Reference" "C40"
@@ -18111,7 +18034,7 @@
 			)
 		)
 		(property "Height" "0.55"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -18124,7 +18047,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Yageo Group"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -18137,7 +18060,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "CC0402GRNPO9BN200"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -18150,7 +18073,7 @@
 			)
 		)
 		(property "Mouser Part Number" "603-CC402GRNPO9BN200"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -18163,7 +18086,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CC402GRNPO9BN200"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -18176,7 +18099,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -18189,7 +18112,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -18202,7 +18125,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -18226,24 +18149,14 @@
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -0.91 -0.46)
-			(end 0.91 -0.46)
+			(start 0.91 0.46)
+			(end -0.91 0.46)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "2118eeb1-dbea-4076-8618-0b983f1cc8f2")
-		)
-		(fp_line
-			(start -0.91 0.46)
-			(end -0.91 -0.46)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "28277adb-b2a6-488c-bd4f-a8749121d102")
+			(uuid "d285b828-995e-4eef-aa60-19479bcb2afe")
 		)
 		(fp_line
 			(start 0.91 -0.46)
@@ -18256,34 +18169,34 @@
 			(uuid "e3f15b63-12da-4a00-a4d8-ac101c850249")
 		)
 		(fp_line
-			(start 0.91 0.46)
-			(end -0.91 0.46)
+			(start -0.91 0.46)
+			(end -0.91 -0.46)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "d285b828-995e-4eef-aa60-19479bcb2afe")
+			(uuid "28277adb-b2a6-488c-bd4f-a8749121d102")
 		)
 		(fp_line
-			(start -0.5 -0.25)
-			(end 0.5 -0.25)
+			(start -0.91 -0.46)
+			(end 0.91 -0.46)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "2118eeb1-dbea-4076-8618-0b983f1cc8f2")
+		)
+		(fp_line
+			(start 0.5 0.25)
+			(end -0.5 0.25)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "776495c5-e1f9-49ff-a842-14423424976e")
-		)
-		(fp_line
-			(start -0.5 0.25)
-			(end -0.5 -0.25)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "01bba374-31d2-4271-99ac-934a7be2369e")
+			(uuid "4c519e35-a4ab-4102-a5d7-440026b197d5")
 		)
 		(fp_line
 			(start 0.5 -0.25)
@@ -18296,14 +18209,24 @@
 			(uuid "ae860d98-6566-419f-bac2-adb5c4e9d173")
 		)
 		(fp_line
-			(start 0.5 0.25)
-			(end -0.5 0.25)
+			(start -0.5 0.25)
+			(end -0.5 -0.25)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "4c519e35-a4ab-4102-a5d7-440026b197d5")
+			(uuid "01bba374-31d2-4271-99ac-934a7be2369e")
+		)
+		(fp_line
+			(start -0.5 -0.25)
+			(end 0.5 -0.25)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "776495c5-e1f9-49ff-a842-14423424976e")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -18317,7 +18240,7 @@
 			)
 		)
 		(pad "1" smd rect
-			(at -0.55 0)
+			(at -0.55 0 180)
 			(size 0.42 0.62)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "GND")
@@ -18326,7 +18249,7 @@
 			(uuid "e32f915b-121f-4ada-8434-87820ca814ce")
 		)
 		(pad "2" smd rect
-			(at 0.55 0)
+			(at 0.55 0 180)
 			(size 0.42 0.62)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "GND")
@@ -18350,11 +18273,11 @@
 	(footprint "mouser:CAPC1005X55N"
 		(layer "F.Cu")
 		(uuid "7396c52f-7bc0-4ac7-80c8-7fd3be0cbcaa")
-		(at 160 85)
+		(at 163.05 86)
 		(descr "C1005")
 		(tags "Capacitor")
 		(property "Reference" "C41"
-			(at 0 0 0)
+			(at 0 -0.25 0)
 			(layer "F.SilkS")
 			(uuid "5ae7619b-357a-4e12-94c3-cf3d588687c0")
 			(effects
@@ -18594,7 +18517,7 @@
 			(uuid "9e82a9a3-050c-47d3-9714-a94ad217c402")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 -0.25 0)
 			(layer "F.Fab")
 			(uuid "2e85a332-135a-403e-87f4-fe3d34e1473b")
 			(effects
@@ -18981,7 +18904,7 @@
 	(footprint "mouser:GCM21"
 		(layer "F.Cu")
 		(uuid "7b239018-d22a-4342-8668-3001095bfb35")
-		(at 160.55 86.25)
+		(at 155.75 85)
 		(descr "GCM21")
 		(tags "Capacitor")
 		(property "Reference" "C42"
@@ -19874,17 +19797,6 @@
 			(layer "F.Fab")
 			(uuid "f363d46e-f4cf-4df7-8eb0-343d1d6193a7")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 -3 0)
-			(layer "F.Fab")
-			(uuid "4ad14422-62f6-4ab7-b1b8-e6a647ce6d9e")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-				)
-			)
-		)
 		(pad "1" smd rect
 			(at -1.98 0)
 			(size 1.25 3.52)
@@ -20177,17 +20089,6 @@
 			)
 			(layer "F.Fab")
 			(uuid "8b43d74c-a0c0-4db6-a279-619b26433b8d")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 -2.5 90)
-			(layer "F.Fab")
-			(uuid "3174eca9-52a1-4b8a-8f8d-df72ac8801cf")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-				)
-			)
 		)
 		(pad "1" smd rect
 			(at -0.475 0 90)
@@ -23822,7 +23723,7 @@
 	(footprint "mouser:MCS04020C1003FE000"
 		(layer "F.Cu")
 		(uuid "9a3f506f-d421-47d2-a644-0955c6f73976")
-		(at 160 78.25)
+		(at 159.725 80.75)
 		(descr "MCS0402")
 		(tags "Resistor")
 		(property "Reference" "R28"
@@ -26138,7 +26039,7 @@
 	(footprint "NetTie:NetTie-2_SMD_Pad0.5mm"
 		(layer "F.Cu")
 		(uuid "a838afa2-75c0-445e-abb1-2e8c332ebc9c")
-		(at 145.162 72.75 90)
+		(at 144.5 73 90)
 		(descr "Net tie, 2 pin, 0.5mm square SMD pads")
 		(tags "net tie")
 		(property "Reference" "NT3"
@@ -26855,6 +26756,7 @@
 		(property "Value" "SW_Wuerth_450301014042"
 			(at 0 3.81 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "17aed8ae-df1c-4249-b2d2-6ea95b619d2b")
 			(effects
 				(font
@@ -26933,17 +26835,6 @@
 			(fill no)
 			(layer "F.Fab")
 			(uuid "1b991aa9-e1c4-4394-8213-d8ee701f6c03")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 2.54 90)
-			(layer "F.Fab")
-			(uuid "847312e9-d151-4369-a071-070f70eb4ecb")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
 		)
 		(pad "1" thru_hole rect
 			(at 0 0 90)
@@ -28641,7 +28532,7 @@
 		(descr "GCM31")
 		(tags "Capacitor")
 		(property "Reference" "C5"
-			(at 0 3 0)
+			(at 0 -1.5 0)
 			(layer "F.SilkS")
 			(uuid "fa63de71-e5d5-486f-89b2-1c995c0e11cd")
 			(effects
@@ -28905,17 +28796,6 @@
 			)
 			(layer "F.Fab")
 			(uuid "c753937c-754e-498a-a6ae-10c699ac581b")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 -3 0)
-			(layer "F.Fab")
-			(uuid "30cc2457-c492-402d-af85-958ca08b3f17")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-				)
-			)
 		)
 		(pad "1" smd rect
 			(at -1.475 0)
@@ -34942,7 +34822,7 @@
 		(descr "GCM31")
 		(tags "Capacitor")
 		(property "Reference" "C4"
-			(at 0 3 0)
+			(at 0 -1.75 0)
 			(layer "F.SilkS")
 			(uuid "fcbfe888-4f26-4967-970e-0f60a0c4ec52")
 			(effects
@@ -35206,17 +35086,6 @@
 			)
 			(layer "F.Fab")
 			(uuid "0ecbb48c-817d-4bbf-bbac-81758221f48c")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 -3 0)
-			(layer "F.Fab")
-			(uuid "567aec35-06d0-430b-8357-862d58c03393")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-				)
-			)
 		)
 		(pad "1" smd rect
 			(at -1.475 0)
