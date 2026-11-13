@@ -3195,26 +3195,26 @@
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "LED"
-				(at 12.7 8.89 0)
+			(property "Reference" "LED1"
+				(at 8.8901 -3.81 90)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left bottom)
+					(justify right)
 				)
 			)
 			(property "Value" "LED3.3v-WP7113VRCBC_A"
-				(at 12.7 6.35 0)
+				(at 12.954 10.668 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left bottom)
+					(justify right)
 				)
 			)
 			(property "Footprint" "mouser:WP7113VRCBCA"
@@ -3242,7 +3242,7 @@
 				)
 			)
 			(property "Description" "Standard LEDs - Through Hole 5mm Thru-Hole LED Blue Lagoon"
-				(at 0 0 0)
+				(at 4.064 7.366 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -3310,6 +3310,17 @@
 						(size 1.27 1.27)
 					)
 					(justify left bottom)
+				)
+			)
+			(property "Sim.Pins" ""
+				(at 0 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
 				)
 			)
 			(symbol "LED3.3v-WP7113VRCBC_A_1_1"
@@ -3853,7 +3864,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "power:GNDPWR"
+		(symbol "power:PWR_FLAG"
 			(power global)
 			(pin_numbers
 				(hide yes)
@@ -3867,8 +3878,8 @@
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "#PWR"
-				(at 0 -5.08 0)
+			(property "Reference" "#FLG"
+				(at 0 1.905 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -3878,8 +3889,8 @@
 					)
 				)
 			)
-			(property "Value" "GNDPWR"
-				(at 0 -3.302 0)
+			(property "Value" "PWR_FLAG"
+				(at 0 3.81 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -3889,7 +3900,7 @@
 				)
 			)
 			(property "Footprint" ""
-				(at 0 -1.27 0)
+				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -3900,17 +3911,6 @@
 				)
 			)
 			(property "Datasheet" ""
-				(at 0 -1.27 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -3921,7 +3921,7 @@
 					)
 				)
 			)
-			(property "ki_keywords" "global ground"
+			(property "Description" "Special symbol for telling ERC where power comes from"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -3932,95 +3932,20 @@
 					)
 				)
 			)
-			(symbol "GNDPWR_0_1"
-				(polyline
-					(pts
-						(xy -1.016 -1.27) (xy -1.27 -2.032) (xy -1.27 -2.032)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.508 -1.27) (xy -0.762 -2.032) (xy -0.762 -2.032)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -1.27) (xy 0 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -1.27) (xy -0.254 -2.032) (xy -0.254 -2.032)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.508 -1.27) (xy 0.254 -2.032) (xy 0.254 -2.032)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.016 -1.27) (xy -1.016 -1.27) (xy -1.016 -1.27)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.016 -1.27) (xy 0.762 -2.032) (xy 0.762 -2.032) (xy 0.762 -2.032)
-					)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
+			(property "ki_keywords" "flag power"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
 					)
 				)
 			)
-			(symbol "GNDPWR_1_1"
-				(pin power_in line
-					(at 0 0 270)
+			(symbol "PWR_FLAG_0_0"
+				(pin power_out line
+					(at 0 0 90)
 					(length 0)
 					(name ""
 						(effects
@@ -4035,6 +3960,20 @@
 								(size 1.27 1.27)
 							)
 						)
+					)
+				)
+			)
+			(symbol "PWR_FLAG_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 1.27) (xy -1.016 1.905) (xy 0 2.54) (xy 1.016 1.905) (xy 0 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
 					)
 				)
 			)
@@ -4237,6 +4176,12 @@
 		(uuid "6a19054a-c8a8-4296-b5cc-fb0ffab25bd0")
 	)
 	(junction
+		(at 93.98 34.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8a676303-3641-4adb-ab40-05dcb619d626")
+	)
+	(junction
 		(at 81.28 96.52)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4271,12 +4216,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ef4c57eb-a059-4b16-82b9-a4131ecd8b7b")
-	)
-	(junction
-		(at 93.98 35.56)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f8e2470a-8db0-43bc-b9bc-2c9c85b5ce42")
 	)
 	(junction
 		(at 93.98 104.14)
@@ -4532,7 +4471,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 36.83) (xy 93.98 35.56)
+			(xy 93.98 34.29) (xy 93.98 36.83)
 		)
 		(stroke
 			(width 0)
@@ -4749,16 +4688,6 @@
 			(type default)
 		)
 		(uuid "8eb88520-c002-4d6b-9b75-1c7642d588d7")
-	)
-	(wire
-		(pts
-			(xy 93.98 34.29) (xy 93.98 35.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8f21b40b-a181-4824-b69f-80fdb5612956")
 	)
 	(wire
 		(pts
@@ -5967,7 +5896,7 @@
 				)
 			)
 		)
-		(property "Value" "12V"
+		(property "Value" "+12V"
 			(at 128.016 21.336 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6587,7 +6516,7 @@
 				)
 			)
 		)
-		(property "Value" "3,3V"
+		(property "Value" "+3,3V"
 			(at 45.72 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7318,7 +7247,7 @@
 			)
 		)
 		(property "Description" "Standard LEDs - Through Hole 5mm Thru-Hole LED Blue Lagoon"
-			(at 40.64 76.2 0)
+			(at 33.274 72.136 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7570,6 +7499,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 128.27 30.48 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5cd355c7-b7fe-4aff-ada5-8057c52cc310")
+		(property "Reference" "#FLG08"
+			(at 128.27 28.575 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 128.27 25.4 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 128.27 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 128.27 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 128.27 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1645bef0-fc5f-42fc-9f65-887f163da44b")
+		)
+		(instances
+			(project "dz11"
+				(path "/044c0f0c-3b03-4e75-9a19-cde2251c7dfa/eb8530b3-06cf-4d65-a278-afe59b647110"
+					(reference "#FLG08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_name "10kOhm_-_MCS04020F1002BE100_2")
 		(lib_id "New_Library:10kOhm_-_MCS04020F1002BE100")
 		(at 81.28 123.19 90)
@@ -7719,83 +7726,6 @@
 			(project "dz11"
 				(path "/044c0f0c-3b03-4e75-9a19-cde2251c7dfa/eb8530b3-06cf-4d65-a278-afe59b647110"
 					(reference "R4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GNDPWR")
-		(at 93.98 35.56 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "75364af6-04ab-4c98-a3cf-eeba23496fe3")
-		(property "Reference" "#PWR02"
-			(at 93.98 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GNDPWR"
-			(at 93.726 33.02 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 93.98 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 93.98 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
-			(at 93.98 35.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "52fa0907-efd4-4c17-aeb9-01d0234e0592")
-		)
-		(instances
-			(project "dz11"
-				(path "/044c0f0c-3b03-4e75-9a19-cde2251c7dfa/eb8530b3-06cf-4d65-a278-afe59b647110"
-					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -8812,6 +8742,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 93.98 34.29 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d614a8ba-08cb-4117-9ac9-6a3666508d99")
+		(property "Reference" "#FLG06"
+			(at 93.98 32.385 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 93.98 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 93.98 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 93.98 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 93.98 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "27c8019e-e4ce-45c7-9b0c-df86930096c9")
+		)
+		(instances
+			(project "dz11"
+				(path "/044c0f0c-3b03-4e75-9a19-cde2251c7dfa/eb8530b3-06cf-4d65-a278-afe59b647110"
+					(reference "#FLG06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "New_Library:10kOhm_-_MCS04020F1002BE100")
 		(at 93.98 123.19 90)
 		(unit 1)
@@ -9297,7 +9305,7 @@
 				)
 			)
 		)
-		(property "Value" "3,3V"
+		(property "Value" "+3,3V"
 			(at 90.424 43.942 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9374,7 +9382,7 @@
 				)
 			)
 		)
-		(property "Value" "3,3V"
+		(property "Value" "+3,3V"
 			(at 60.96 109.22 0)
 			(show_name no)
 			(do_not_autoplace no)

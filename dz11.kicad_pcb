@@ -18904,7 +18904,7 @@
 	(footprint "mouser:GCM21"
 		(layer "F.Cu")
 		(uuid "7b239018-d22a-4342-8668-3001095bfb35")
-		(at 155.75 85)
+		(at 155.5 83.75)
 		(descr "GCM21")
 		(tags "Capacitor")
 		(property "Reference" "C42"
@@ -24027,7 +24027,7 @@
 	(footprint "mouser:GCM21"
 		(layer "F.Cu")
 		(uuid "9ae8979e-5ed5-4ec5-888f-f29fa0618f54")
-		(at 159.75 88.75)
+		(at 158.95 87.5)
 		(descr "GCM21")
 		(tags "Capacitor")
 		(property "Reference" "C43"

@@ -1390,223 +1390,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "2.2uF-GCM21BM8EH225KE08L_1"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "C"
-				(at 8.89 6.35 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "2.2uF"
-				(at 8.89 3.81 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "GCM21"
-				(at 8.89 -96.19 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM21BM8EH225KE08-01A.pdf"
-				(at 8.89 -196.19 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Description" "Chip Multilayer Ceramic Capacitors for Automotive (Powertrain/Safety), 1.6 x 0.8 (0603)"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Height" "1.4"
-				(at 8.89 -396.19 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Mouser Part Number" ""
-				(at 8.89 -496.19 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Mouser Price/Stock" ""
-				(at 8.89 -596.19 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Manufacturer_Name" "Murata Electronics"
-				(at 8.89 -696.19 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Manufacturer_Part_Number" "GCM21BM8EH225KE08L"
-				(at 8.89 -796.19 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(symbol "2.2uF-GCM21BM8EH225KE08L_1_1_1"
-				(polyline
-					(pts
-						(xy 5.08 0) (xy 5.588 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.588 2.54) (xy 5.588 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.112 2.54) (xy 7.112 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.112 0) (xy 7.62 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 5.08)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 12.7 0 180)
-					(length 5.08)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "C_1"
 			(pin_numbers
 				(hide yes)
@@ -2397,10 +2180,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "New_Library:2.2uF-GCM21BM8EH225KE08L"
-			(pin_numbers
-				(hide yes)
-			)
+		(symbol "New_Library:2.2uF-TAJD225M050RNJ"
 			(pin_names
 				(hide yes)
 			)
@@ -2409,29 +2189,29 @@
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "C43"
-				(at 5.0799 3.81 90)
+			(property "Reference" "C"
+				(at 8.89 6.35 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
+					(justify left top)
 				)
 			)
 			(property "Value" "2.2uF"
-				(at 7.6199 3.81 90)
+				(at 8.89 3.81 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
+					(justify left top)
 				)
 			)
-			(property "Footprint" "mouser:GCM21"
+			(property "Footprint" "CAPPM7344X310N"
 				(at 8.89 -96.19 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2443,7 +2223,7 @@
 					(justify left top)
 				)
 			)
-			(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM21BM8EH225KE08-01A.pdf"
+			(property "Datasheet" "http://datasheets.avx.com/TAJ.pdf"
 				(at 8.89 -196.19 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2455,8 +2235,8 @@
 					(justify left top)
 				)
 			)
-			(property "Description" "Chip Multilayer Ceramic Capacitors for Automotive (Powertrain/Safety), 1.6 x 0.8 (0603)"
-				(at 0 0 0)
+			(property "Description" "AVX Moulded Capacitor (225)"
+				(at 7.874 9.144 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -2466,7 +2246,7 @@
 					)
 				)
 			)
-			(property "Height" "1.4"
+			(property "Height" "3.1"
 				(at 8.89 -396.19 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2478,7 +2258,7 @@
 					(justify left top)
 				)
 			)
-			(property "Mouser Part Number" ""
+			(property "Manufacturer_Name" "Kyocera AVX"
 				(at 8.89 -496.19 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2490,7 +2270,7 @@
 					(justify left top)
 				)
 			)
-			(property "Mouser Price/Stock" ""
+			(property "Manufacturer_Part_Number" "TAJD225M050RNJ"
 				(at 8.89 -596.19 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2502,7 +2282,7 @@
 					(justify left top)
 				)
 			)
-			(property "Manufacturer_Name" "Murata Electronics"
+			(property "Mouser Part Number" ""
 				(at 8.89 -696.19 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2514,7 +2294,7 @@
 					(justify left top)
 				)
 			)
-			(property "Manufacturer_Part_Number" "GCM21BM8EH225KE08L"
+			(property "Mouser Price/Stock" ""
 				(at 8.89 -796.19 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2526,8 +2306,8 @@
 					(justify left top)
 				)
 			)
-			(property "Sim.Pins" ""
-				(at 0 0 90)
+			(property "Arrow Part Number" "TAJD225M050RNJ"
+				(at 8.89 -896.19 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -2535,12 +2315,25 @@
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left top)
 				)
 			)
-			(symbol "2.2uF-GCM21BM8EH225KE08L_1_1"
+			(property "Arrow Price/Stock" "https://www.arrow.com/en/products/tajd225m050rnj/avx"
+				(at 8.89 -996.19 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(symbol "2.2uF-TAJD225M050RNJ_1_1"
 				(polyline
 					(pts
-						(xy 5.08 0) (xy 5.588 0)
+						(xy 2.54 0) (xy 5.08 0)
 					)
 					(stroke
 						(width 0.254)
@@ -2552,7 +2345,7 @@
 				)
 				(polyline
 					(pts
-						(xy 5.588 2.54) (xy 5.588 -2.54)
+						(xy 4.064 1.778) (xy 4.064 0.762)
 					)
 					(stroke
 						(width 0.254)
@@ -2564,7 +2357,7 @@
 				)
 				(polyline
 					(pts
-						(xy 7.112 2.54) (xy 7.112 -2.54)
+						(xy 4.572 1.27) (xy 3.556 1.27)
 					)
 					(stroke
 						(width 0.254)
@@ -2574,9 +2367,32 @@
 						(type none)
 					)
 				)
+				(rectangle
+					(start 5.08 2.54)
+					(end 5.842 -2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
 				(polyline
 					(pts
-						(xy 7.112 0) (xy 7.62 0)
+						(xy 7.62 2.54) (xy 7.62 -2.54) (xy 6.858 -2.54) (xy 6.858 2.54) (xy 7.62 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 0) (xy 10.16 0)
 					)
 					(stroke
 						(width 0.254)
@@ -2588,7 +2404,7 @@
 				)
 				(pin passive line
 					(at 0 0 0)
-					(length 5.08)
+					(length 2.54)
 					(name "+"
 						(effects
 							(font
@@ -2606,7 +2422,7 @@
 				)
 				(pin passive line
 					(at 12.7 0 180)
-					(length 5.08)
+					(length 2.54)
 					(name "-"
 						(effects
 							(font
@@ -7087,16 +6903,6 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 144.78) (xy 77.47 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3f51c8e6-de3f-4ed1-b04a-ffc289ccbf4b")
-	)
-	(wire
-		(pts
 			(xy 173.99 129.54) (xy 173.99 120.65)
 		)
 		(stroke
@@ -7434,6 +7240,16 @@
 			(type default)
 		)
 		(uuid "72712c5b-2aaa-4cfa-ac22-cb8248d2e468")
+	)
+	(wire
+		(pts
+			(xy 90.17 147.32) (xy 90.17 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72cb7ddb-d78f-4307-8390-01c453cf5f1f")
 	)
 	(wire
 		(pts
@@ -7837,6 +7653,16 @@
 	)
 	(wire
 		(pts
+			(xy 77.47 144.78) (xy 77.47 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3f3b10c-50c5-4406-bc18-58c2bc8a1cbd")
+	)
+	(wire
+		(pts
 			(xy 72.39 69.85) (xy 72.39 64.77)
 		)
 		(stroke
@@ -7884,16 +7710,6 @@
 			(type default)
 		)
 		(uuid "f61f15a0-c6f7-44b4-a3e3-ae702914ac20")
-	)
-	(wire
-		(pts
-			(xy 90.17 147.32) (xy 90.17 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f7ddf363-abf0-4c06-8884-9e8891ce1d28")
 	)
 	(wire
 		(pts
@@ -8958,7 +8774,7 @@
 				)
 			)
 		)
-		(property "Value" "3,3V"
+		(property "Value" "+3,3V"
 			(at 129.286 63.754 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9193,161 +9009,6 @@
 			(project "dz11"
 				(path "/044c0f0c-3b03-4e75-9a19-cde2251c7dfa/c0e3b550-145a-412d-8aa5-beb2716229cc"
 					(reference "C34")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "New_Library:2.2uF-GCM21BM8EH225KE08L")
-		(at 90.17 153.67 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim yes)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0d881286-e8c6-4413-8c2e-4cc6c119b3d0")
-		(property "Reference" "C43"
-			(at 93.98 158.7499 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "2.2uF"
-			(at 93.98 161.2899 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "mouser:GCM21"
-			(at -6.02 162.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM21BM8EH225KE08-01A.pdf"
-			(at -106.02 162.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "Chip Multilayer Ceramic Capacitors for Automotive (Powertrain/Safety), 1.6 x 0.8 (0603)"
-			(at 90.17 153.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Height" "1.4"
-			(at -306.02 162.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Part Number" ""
-			(at -406.02 162.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Price/Stock" ""
-			(at -506.02 162.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Name" "Murata Electronics"
-			(at -606.02 162.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Part_Number" "GCM21BM8EH225KE08L"
-			(at -706.02 162.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 90.17 153.67 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "3570aa11-b8ab-43c3-8502-1ffffa2d2a17")
-		)
-		(pin "2"
-			(uuid "7a845247-5ca8-43da-9ac5-c84027f3fe83")
-		)
-		(instances
-			(project "dz11"
-				(path "/044c0f0c-3b03-4e75-9a19-cde2251c7dfa/c0e3b550-145a-412d-8aa5-beb2716229cc"
-					(reference "C43")
 					(unit 1)
 				)
 			)
@@ -9867,162 +9528,6 @@
 		)
 	)
 	(symbol
-		(lib_name "2.2uF-GCM21BM8EH225KE08L_1")
-		(lib_id "New_Library:2.2uF-GCM21BM8EH225KE08L")
-		(at 77.47 153.67 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3044c7e9-9d06-4416-90b1-2d0d1e0d6685")
-		(property "Reference" "C42"
-			(at 81.28 158.7499 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "2.2uF"
-			(at 81.28 161.2899 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "mouser:GCM21"
-			(at -18.72 162.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM21BM8EH225KE08-01A.pdf"
-			(at -118.72 162.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "Chip Multilayer Ceramic Capacitors for Automotive (Powertrain/Safety), 1.6 x 0.8 (0603)"
-			(at 77.47 153.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Height" "1.4"
-			(at -318.72 162.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Part Number" ""
-			(at -418.72 162.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Price/Stock" ""
-			(at -518.72 162.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Name" "Murata Electronics"
-			(at -618.72 162.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Part_Number" "GCM21BM8EH225KE08L"
-			(at -718.72 162.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 77.47 153.67 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "09bea6db-310d-4300-8a43-571333d3c5d5")
-		)
-		(pin "2"
-			(uuid "b3c4f261-9981-461d-958b-2b71f3336260")
-		)
-		(instances
-			(project "dz11"
-				(path "/044c0f0c-3b03-4e75-9a19-cde2251c7dfa/c0e3b550-145a-412d-8aa5-beb2716229cc"
-					(reference "C42")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3.3V")
 		(at 189.23 59.69 0)
 		(unit 1)
@@ -10044,7 +9549,7 @@
 				)
 			)
 		)
-		(property "Value" "3,3V"
+		(property "Value" "+3,3V"
 			(at 189.484 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10100,6 +9605,174 @@
 			(project "dz6"
 				(path "/3a5f9a10-590e-49b5-9584-8f167f7337bd/3dad5e5b-44d6-48ec-8eea-d9404a04747a"
 					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "New_Library:2.2uF-TAJD225M050RNJ")
+		(at 77.47 153.67 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "54f78d1c-b525-4093-abd9-e8db9ad998dc")
+		(property "Reference" "C42"
+			(at 81.28 158.7499 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2.2uF"
+			(at 81.28 161.2899 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "mouser:CAPPM7344X310N"
+			(at -18.72 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Datasheet" "http://datasheets.avx.com/TAJ.pdf"
+			(at -118.72 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Description" "AVX Moulded Capacitor (225)"
+			(at 86.614 161.544 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" "3.1"
+			(at -318.72 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Name" "Kyocera AVX"
+			(at -418.72 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Part_Number" "TAJD225M050RNJ"
+			(at -518.72 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at -618.72 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at -718.72 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Arrow Part Number" "TAJD225M050RNJ"
+			(at -818.72 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/tajd225m050rnj/avx"
+			(at -918.72 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "1"
+			(uuid "061ba176-fc99-454e-9d43-2cbfb8d8bfd4")
+		)
+		(pin "2"
+			(uuid "fd5ff988-587a-499d-a95e-a2ee5eda69d2")
+		)
+		(instances
+			(project "dz11"
+				(path "/044c0f0c-3b03-4e75-9a19-cde2251c7dfa/c0e3b550-145a-412d-8aa5-beb2716229cc"
+					(reference "C42")
 					(unit 1)
 				)
 			)
@@ -11147,6 +10820,174 @@
 			(project "dz11"
 				(path "/044c0f0c-3b03-4e75-9a19-cde2251c7dfa/c0e3b550-145a-412d-8aa5-beb2716229cc"
 					(reference "C37")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "New_Library:2.2uF-TAJD225M050RNJ")
+		(at 90.17 153.67 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "884ad3ab-5406-4e06-b91e-7a327facaa27")
+		(property "Reference" "C43"
+			(at 93.98 158.7499 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2.2uF"
+			(at 93.98 161.2899 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "mouser:CAPPM7344X310N"
+			(at -6.02 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Datasheet" "http://datasheets.avx.com/TAJ.pdf"
+			(at -106.02 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Description" "AVX Moulded Capacitor (225)"
+			(at 99.314 161.544 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" "3.1"
+			(at -306.02 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Name" "Kyocera AVX"
+			(at -406.02 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Part_Number" "TAJD225M050RNJ"
+			(at -506.02 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at -606.02 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at -706.02 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Arrow Part Number" "TAJD225M050RNJ"
+			(at -806.02 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/tajd225m050rnj/avx"
+			(at -906.02 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "1"
+			(uuid "ac103984-d66f-4073-a473-d265117abe85")
+		)
+		(pin "2"
+			(uuid "7fd15d5a-2e2b-4fe8-879e-39871b2b432b")
+		)
+		(instances
+			(project "dz11"
+				(path "/044c0f0c-3b03-4e75-9a19-cde2251c7dfa/c0e3b550-145a-412d-8aa5-beb2716229cc"
+					(reference "C43")
 					(unit 1)
 				)
 			)
@@ -12464,7 +12305,7 @@
 				)
 			)
 		)
-		(property "Value" "3,3V"
+		(property "Value" "+3,3V"
 			(at 79.756 131.826 0)
 			(show_name no)
 			(do_not_autoplace no)

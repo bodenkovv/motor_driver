@@ -8132,7 +8132,7 @@
 				)
 			)
 		)
-		(property "Value" "3,3V"
+		(property "Value" "+3,3V"
 			(at 168.91 83.8199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8527,7 +8527,7 @@
 				)
 			)
 		)
-		(property "Value" "3,3V"
+		(property "Value" "+3,3V"
 			(at 77.47 78.7399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8798,7 +8798,7 @@
 				)
 			)
 		)
-		(property "Value" "3,3V"
+		(property "Value" "+3,3V"
 			(at 257.81 81.2799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10070,14 +10070,15 @@
 				)
 			)
 		)
-		(property "Value" "12V"
-			(at 25.4 45.72 0)
+		(property "Value" "+12V"
+			(at 27.94 49.5299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
