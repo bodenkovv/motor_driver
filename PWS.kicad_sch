@@ -5891,12 +5891,6 @@
 		(uuid "8a255c85-1ade-4025-85ce-3c09d248eb02")
 	)
 	(junction
-		(at 133.35 50.8)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9eccecc3-26db-4a2a-8b0b-315becb52c0c")
-	)
-	(junction
 		(at 67.31 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6006,17 +6000,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 50.8) (xy 133.35 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1a6fb457-a5a2-4ce6-af3c-ce60b1d36848")
-	)
-	(wire
-		(pts
-			(xy 133.35 50.8) (xy 130.81 50.8)
+			(xy 130.81 50.8) (xy 137.16 50.8)
 		)
 		(stroke
 			(width 0)
@@ -6763,7 +6747,6 @@
 	)
 	(label ""
 		(at 137.16 50.8 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6772,7 +6755,7 @@
 		)
 		(uuid "ac12e30c-78c9-49d4-b368-56d2b157bc9c")
 		(property "Netclass" "HighCurrent"
-			(at 137.16 52.07 0)
+			(at 135.636 54.356 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6946,84 +6929,6 @@
 			(project "dz11"
 				(path "/044c0f0c-3b03-4e75-9a19-cde2251c7dfa/a8814c9a-a50b-4655-8a60-acc227d0abe1"
 					(reference "C29")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 133.35 50.8 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "289c2808-33d1-4b46-bec4-8688b87dcbda")
-		(property "Reference" "#FLG01"
-			(at 133.35 48.895 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PWR_FLAG"
-			(at 133.35 45.72 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_LCC:PLCC-84_29.3x29.3mm_P1.27mm"
-			(at 133.35 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 133.35 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 133.35 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f46e96da-1c2b-4ee7-8602-1f21860a2783")
-		)
-		(instances
-			(project "dz11"
-				(path "/044c0f0c-3b03-4e75-9a19-cde2251c7dfa/a8814c9a-a50b-4655-8a60-acc227d0abe1"
-					(reference "#FLG01")
 					(unit 1)
 				)
 			)
