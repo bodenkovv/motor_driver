@@ -4359,16 +4359,6 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 80.01) (xy 74.93 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5072cbd5-fa5b-4647-8220-8a864a1b1edc")
-	)
-	(wire
-		(pts
 			(xy 20.32 74.93) (xy 30.48 74.93)
 		)
 		(stroke
@@ -4519,7 +4509,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 100.33) (xy 74.93 90.17)
+			(xy 74.93 100.33) (xy 74.93 93.98)
 		)
 		(stroke
 			(width 0)
@@ -7605,7 +7595,7 @@
 	)
 	(symbol
 		(lib_id "New_Library:PMEG050T150EPD")
-		(at 74.93 86.36 270)
+		(at 74.93 90.17 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7616,7 +7606,7 @@
 		(fields_autoplaced yes)
 		(uuid "67171284-dd4b-4337-a12a-9e170e824056")
 		(property "Reference" "D1"
-			(at 77.47 84.7724 90)
+			(at 77.47 88.5824 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7627,7 +7617,7 @@
 			)
 		)
 		(property "Value" "PMEG050T150EPD"
-			(at 77.47 87.3124 90)
+			(at 77.47 91.1224 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7638,7 +7628,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:Nexperia_CFP15_SOT-1289"
-			(at 70.485 86.36 0)
+			(at 70.485 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7649,7 +7639,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PMEG050T150EPD.pdf"
-			(at 74.93 86.36 0)
+			(at 74.93 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7660,7 +7650,7 @@
 			)
 		)
 		(property "Description" "50V, 15A low Vf Trench MEGA Schottky barrier rectifier, SOT-1289"
-			(at 74.93 86.36 0)
+			(at 74.93 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7671,7 +7661,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 74.93 86.36 90)
+			(at 74.93 90.17 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8505,85 +8495,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:VCC")
-		(at 74.93 80.01 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9b0bc9e1-64bf-49e7-92fc-8a0ff160af5e")
-		(property "Reference" "#PWR014"
-			(at 74.93 83.82 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3,3V"
-			(at 77.47 78.7399 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 74.93 80.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 74.93 80.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 74.93 80.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "57c7210a-d2f3-43c7-863f-2c1879ed6483")
-		)
-		(instances
-			(project "dz11"
-				(path "/044c0f0c-3b03-4e75-9a19-cde2251c7dfa/c029e2ac-a960-468a-a767-0922dbeb17e0"
-					(reference "#PWR014")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "New_Library:PMEG050T150EPD")
 		(at 255.27 86.36 270)
 		(unit 1)
@@ -8770,85 +8681,6 @@
 			(project "dz11"
 				(path "/044c0f0c-3b03-4e75-9a19-cde2251c7dfa/c029e2ac-a960-468a-a767-0922dbeb17e0"
 					(reference "R12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VCC")
-		(at 255.27 82.55 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "acbcfa5f-5fc5-4890-81a4-94637f550f11")
-		(property "Reference" "#PWR015"
-			(at 255.27 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3,3V"
-			(at 257.81 81.2799 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 255.27 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 255.27 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 255.27 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f2b43c59-8e00-4edc-8b62-67c17c188ec2")
-		)
-		(instances
-			(project "dz11"
-				(path "/044c0f0c-3b03-4e75-9a19-cde2251c7dfa/c029e2ac-a960-468a-a767-0922dbeb17e0"
-					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -10582,6 +10414,85 @@
 		)
 	)
 	(symbol
+		(lib_id "power:VCC")
+		(at 74.93 86.36 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "eba14b20-afd5-4669-ba0b-9bef13de82dc")
+		(property "Reference" "#PWR029"
+			(at 74.93 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3,3V"
+			(at 77.47 85.0899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 74.93 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 74.93 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 74.93 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "06514cd7-482f-4777-8cb1-6a8996e87b39")
+		)
+		(instances
+			(project "dz11"
+				(path "/044c0f0c-3b03-4e75-9a19-cde2251c7dfa/c029e2ac-a960-468a-a767-0922dbeb17e0"
+					(reference "#PWR029")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:Earth")
 		(at 210.82 115.57 0)
 		(unit 1)
@@ -11016,6 +10927,85 @@
 			(project "dz11"
 				(path "/044c0f0c-3b03-4e75-9a19-cde2251c7dfa/c029e2ac-a960-468a-a767-0922dbeb17e0"
 					(reference "TP4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 255.27 82.55 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fe5f2915-01da-4eb0-b83b-040574924b0e")
+		(property "Reference" "#PWR041"
+			(at 255.27 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3,3V"
+			(at 257.81 81.2799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 255.27 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 255.27 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 255.27 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0d55cf27-b704-43c6-8b74-05ecb53c3d19")
+		)
+		(instances
+			(project "dz11"
+				(path "/044c0f0c-3b03-4e75-9a19-cde2251c7dfa/c029e2ac-a960-468a-a767-0922dbeb17e0"
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)

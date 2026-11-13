@@ -1,0 +1,27 @@
+import pcbnew
+board = pcbnew.GetBoard()
+print(board.GetFileName())
+with open(r"C:\temp\kicad_placement.csv","w", encoding="utf-8") as f: 
+f.write("Ref;Value;X;Y;Layer\n")
+ 
+for fp in board.GetFootprints():
+ 
+pos = fp.GetPosition()
+ 
+x = pcbnew.ToMM(pos.x)
+y = pcbnew.ToMM(pos.y)
+ 
+try:
+layer = fp.GetLayerName()
+except:
+layer = str(fp.GetLayer())
+ 
+f.write(
+f"{fp.GetReference()};"
+f"{fp.GetValue()};"
+f"{x:.3f};"
+f"{y:.3f};"
+f"{layer}\n"
+)
+ 
+print("DONE")
