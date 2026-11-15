@@ -5789,7 +5789,7 @@
 		)
 	)
 	(junction
-		(at 233.68 78.74)
+		(at 233.68 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0186fc57-29d4-4d95-8532-2fe331fec595")
@@ -5807,7 +5807,7 @@
 		(uuid "02308495-87e1-40da-a90f-47f304f097a6")
 	)
 	(junction
-		(at 204.47 74.93)
+		(at 204.47 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "20c6bfc9-7248-462a-9f85-338c6d629105")
@@ -5819,7 +5819,7 @@
 		(uuid "21708e4d-ff9d-4931-aee4-d669ad77580f")
 	)
 	(junction
-		(at 276.86 78.74)
+		(at 276.86 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2a6a91be-5aa5-45ae-bced-4d1e99416305")
@@ -5855,10 +5855,16 @@
 		(uuid "64a8560d-f8bd-422a-bcaa-5d44d4f857ac")
 	)
 	(junction
-		(at 199.39 74.93)
+		(at 199.39 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6f26dd75-1a6e-40b9-b86b-62943c26a7ad")
+	)
+	(junction
+		(at 227.33 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7285fb8a-5bd7-41c1-855b-2b2f30509d5a")
 	)
 	(junction
 		(at 104.14 59.69)
@@ -5903,13 +5909,7 @@
 		(uuid "a7b518be-7d6e-4493-8c39-b44718a49245")
 	)
 	(junction
-		(at 227.33 69.85)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b34d4374-db08-4f4d-a2ed-74279b51ccf5")
-	)
-	(junction
-		(at 217.17 74.93)
+		(at 217.17 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b68ba819-50d3-43cf-8db3-06a963f29e94")
@@ -5976,7 +5976,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 76.2) (xy 266.7 69.85)
+			(xy 266.7 77.47) (xy 266.7 71.12)
 		)
 		(stroke
 			(width 0)
@@ -5993,6 +5993,16 @@
 			(type default)
 		)
 		(uuid "063de71d-49db-4e26-be4b-e1aca760943d")
+	)
+	(wire
+		(pts
+			(xy 132.08 77.47) (xy 132.08 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "121f73b6-4827-41b6-b908-f5fe1c83814d")
 	)
 	(wire
 		(pts
@@ -6026,7 +6036,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 74.93) (xy 217.17 74.93)
+			(xy 204.47 71.12) (xy 217.17 71.12)
 		)
 		(stroke
 			(width 0)
@@ -6046,7 +6056,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 78.74) (xy 276.86 78.74)
+			(xy 266.7 80.01) (xy 276.86 80.01)
 		)
 		(stroke
 			(width 0)
@@ -6116,7 +6126,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 76.2) (xy 233.68 81.28)
+			(xy 233.68 77.47) (xy 233.68 82.55)
 		)
 		(stroke
 			(width 0)
@@ -6156,7 +6166,7 @@
 	)
 	(wire
 		(pts
-			(xy 276.86 71.12) (xy 276.86 80.01)
+			(xy 276.86 66.04) (xy 276.86 80.01)
 		)
 		(stroke
 			(width 0)
@@ -6166,7 +6176,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 83.82) (xy 132.08 92.71)
+			(xy 132.08 90.17) (xy 132.08 92.71)
 		)
 		(stroke
 			(width 0)
@@ -6196,7 +6206,17 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 82.55) (xy 170.18 82.55)
+			(xy 227.33 66.04) (xy 227.33 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b7a11c5-53bd-4eda-ba80-bb0a828cccec")
+	)
+	(wire
+		(pts
+			(xy 166.37 82.55) (xy 172.72 82.55)
 		)
 		(stroke
 			(width 0)
@@ -6206,7 +6226,27 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 92.71) (xy 266.7 81.28)
+			(xy 204.47 71.12) (xy 204.47 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e607134-b2b1-4567-8886-0b019a6b82be")
+	)
+	(wire
+		(pts
+			(xy 199.39 71.12) (xy 199.39 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "618bbded-ca36-4c19-8cfe-34adb39f4e51")
+	)
+	(wire
+		(pts
+			(xy 266.7 92.71) (xy 266.7 82.55)
 		)
 		(stroke
 			(width 0)
@@ -6256,13 +6296,13 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 57.15) (xy 227.33 69.85)
+			(xy 217.17 71.12) (xy 217.17 74.93)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7860541e-3987-49ca-8677-fa974d955bd9")
+		(uuid "77258121-7743-4359-bbcc-2038e1abba44")
 	)
 	(wire
 		(pts
@@ -6276,17 +6316,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 69.85) (xy 217.17 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7d2a54b8-3af6-4c96-8ed2-4051811e8643")
-	)
-	(wire
-		(pts
-			(xy 217.17 69.85) (xy 227.33 69.85)
+			(xy 217.17 71.12) (xy 227.33 71.12)
 		)
 		(stroke
 			(width 0)
@@ -6316,7 +6346,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 82.55) (xy 199.39 82.55)
+			(xy 193.04 82.55) (xy 199.39 82.55)
 		)
 		(stroke
 			(width 0)
@@ -6376,7 +6406,7 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 80.01) (xy 227.33 69.85)
+			(xy 227.33 76.2) (xy 227.33 71.12)
 		)
 		(stroke
 			(width 0)
@@ -6386,7 +6416,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 74.93) (xy 204.47 74.93)
+			(xy 199.39 71.12) (xy 204.47 71.12)
 		)
 		(stroke
 			(width 0)
@@ -6456,7 +6486,7 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 69.85) (xy 266.7 69.85)
+			(xy 227.33 71.12) (xy 266.7 71.12)
 		)
 		(stroke
 			(width 0)
@@ -6556,16 +6586,6 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 71.12) (xy 199.39 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f1fdf964-500c-4ea7-bc68-79c27d5c4fef")
-	)
-	(wire
-		(pts
 			(xy 166.37 53.34) (xy 175.26 53.34)
 		)
 		(stroke
@@ -6573,6 +6593,16 @@
 			(type default)
 		)
 		(uuid "f4288d91-5675-4f23-bf85-d7d00eaae951")
+	)
+	(wire
+		(pts
+			(xy 227.33 88.9) (xy 227.33 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f53f0ab5-30f0-4df1-a600-f84b40fe7ab8")
 	)
 	(wire
 		(pts
@@ -6685,7 +6715,7 @@
 		)
 	)
 	(label ""
-		(at 231.14 69.85 0)
+		(at 231.14 71.12 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6695,7 +6725,7 @@
 		)
 		(uuid "70ef08cd-75df-494b-8cdd-874c902ab757")
 		(property "Netclass" "Diff"
-			(at 231.14 71.12 0)
+			(at 231.14 72.39 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7407,7 +7437,7 @@
 	)
 	(symbol
 		(lib_id "New_Library:CGA3E2X7R1H104K080AA")
-		(at 132.08 71.12 270)
+		(at 132.08 77.47 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7418,7 +7448,7 @@
 		(fields_autoplaced yes)
 		(uuid "5ba322a0-e436-4067-ab52-d09c152e5079")
 		(property "Reference" "C24"
-			(at 135.89 76.1999 90)
+			(at 135.89 82.5499 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7429,7 +7459,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 135.89 78.7399 90)
+			(at 135.89 85.0899 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7440,7 +7470,7 @@
 			)
 		)
 		(property "Footprint" "mouser:CAPC1608X90N"
-			(at 35.89 80.01 0)
+			(at 35.89 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7452,7 +7482,7 @@
 			)
 		)
 		(property "Datasheet" "http://docs-europe.electrocomponents.com/webdocs/14e9/0900766b814e9125.pdf"
-			(at -64.11 80.01 0)
+			(at -64.11 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7464,7 +7494,7 @@
 			)
 		)
 		(property "Description" "Multilayer Ceramic Chip Capacitors, Capacitance=0.1uF, LxWxT:1.6x0.8x0.8mm"
-			(at 132.08 71.12 0)
+			(at 132.08 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7475,7 +7505,7 @@
 			)
 		)
 		(property "Height" "0.9"
-			(at -264.11 80.01 0)
+			(at -264.11 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7487,7 +7517,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "TDK"
-			(at -364.11 80.01 0)
+			(at -364.11 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7499,7 +7529,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "CGA3E2X7R1H104K080AA"
-			(at -464.11 80.01 0)
+			(at -464.11 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7511,7 +7541,7 @@
 			)
 		)
 		(property "Mouser Part Number" "810-CGA3E2X7R1H104K"
-			(at -564.11 80.01 0)
+			(at -564.11 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7523,7 +7553,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TDK/CGA3E2X7R1H104K080AA?qs=NRhsANhppD%2Fge2a869G9Fg%3D%3D"
-			(at -664.11 80.01 0)
+			(at -664.11 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7535,7 +7565,7 @@
 			)
 		)
 		(property "Arrow Part Number" "CGA3E2X7R1H104K080AA"
-			(at -764.11 80.01 0)
+			(at -764.11 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7547,7 +7577,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/cga3e2x7r1h104k080aa/tdk.html?utm_currency=USD&region=europe"
-			(at -864.11 80.01 0)
+			(at -864.11 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7559,7 +7589,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 132.08 71.12 90)
+			(at 132.08 77.47 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8672,7 +8702,7 @@
 	)
 	(symbol
 		(lib_id "New_Library:15uH_-_MSS1210-153MEB")
-		(at 170.18 82.55 0)
+		(at 172.72 82.55 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8683,7 +8713,7 @@
 		(fields_autoplaced yes)
 		(uuid "8ba3c52f-8251-441e-bff1-a175e272693e")
 		(property "Reference" "L1"
-			(at 180.34 76.2 0)
+			(at 182.88 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8693,7 +8723,7 @@
 			)
 		)
 		(property "Value" "15uH"
-			(at 180.34 78.74 0)
+			(at 182.88 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8703,7 +8733,7 @@
 			)
 		)
 		(property "Footprint" "mouser:INDPM120120X1020N"
-			(at 186.69 178.74 0)
+			(at 189.23 178.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8715,7 +8745,7 @@
 			)
 		)
 		(property "Datasheet" "https://mouser.componentsearchengine.com/Datasheets/1/MSS1210-153MEB.pdf"
-			(at 186.69 278.74 0)
+			(at 189.23 278.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8727,7 +8757,7 @@
 			)
 		)
 		(property "Description" "Fixed Inductors MSS1210 AEC-Q200 15 uH 20 % 8.7 A"
-			(at 170.18 82.55 0)
+			(at 172.72 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8738,7 +8768,7 @@
 			)
 		)
 		(property "Height" "10.2"
-			(at 186.69 478.74 0)
+			(at 189.23 478.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8750,7 +8780,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "COILCRAFT"
-			(at 186.69 578.74 0)
+			(at 189.23 578.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8762,7 +8792,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "MSS1210-153MEB"
-			(at 186.69 678.74 0)
+			(at 189.23 678.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8774,7 +8804,7 @@
 			)
 		)
 		(property "Mouser Part Number" "994-MSS1210-153MEB"
-			(at 186.69 778.74 0)
+			(at 189.23 778.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8786,7 +8816,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Coilcraft/MSS1210-153MEB?qs=VJjuEbE9QBMlHu4abLfVcg%3D%3D"
-			(at 186.69 878.74 0)
+			(at 189.23 878.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8798,7 +8828,7 @@
 			)
 		)
 		(property "Arrow Part Number" ""
-			(at 186.69 978.74 0)
+			(at 189.23 978.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8810,7 +8840,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" ""
-			(at 186.69 1078.74 0)
+			(at 189.23 1078.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8822,7 +8852,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 170.18 82.55 0)
+			(at 172.72 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9206,7 +9236,7 @@
 	)
 	(symbol
 		(lib_id "New_Library:LM1084ISX-3.3_NOPB")
-		(at 266.7 81.28 180)
+		(at 266.7 82.55 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9217,7 +9247,7 @@
 		(fields_autoplaced yes)
 		(uuid "97999305-1b29-4fac-9a4e-84f231ce2316")
 		(property "Reference" "IC2"
-			(at 250.19 68.58 0)
+			(at 250.19 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9227,7 +9257,7 @@
 			)
 		)
 		(property "Value" "LM1084ISX-3.3_NOPB"
-			(at 250.19 71.12 0)
+			(at 250.19 72.39 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9237,7 +9267,7 @@
 			)
 		)
 		(property "Footprint" "mouser:LM7812SXNOPB"
-			(at 237.49 -13.64 0)
+			(at 237.49 -12.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9249,7 +9279,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/lm1084"
-			(at 237.49 -113.64 0)
+			(at 237.49 -112.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9261,7 +9291,7 @@
 			)
 		)
 		(property "Description" "5A Fixed / Adjustable Output Linear Regulator"
-			(at 266.7 81.28 0)
+			(at 266.7 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9272,7 +9302,7 @@
 			)
 		)
 		(property "Height" "4.64"
-			(at 237.49 -313.64 0)
+			(at 237.49 -312.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9284,7 +9314,7 @@
 			)
 		)
 		(property "Mouser Part Number" "926-LM1084ISX33NOPB"
-			(at 237.49 -413.64 0)
+			(at 237.49 -412.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9296,7 +9326,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM1084ISX-3.3-NOPB?qs=X1J7HmVL2ZHtB6T2lNJS4g%3D%3D"
-			(at 237.49 -513.64 0)
+			(at 237.49 -512.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9308,7 +9338,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Texas Instruments"
-			(at 237.49 -613.64 0)
+			(at 237.49 -612.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9320,7 +9350,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "LM1084ISX-3.3/NOPB"
-			(at 237.49 -713.64 0)
+			(at 237.49 -712.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9852,7 +9882,7 @@
 	(symbol
 		(lib_name "10uF_-_293D106X0010A2TE3_1")
 		(lib_id "New_Library:10uF_-_293D106X0010A2TE3")
-		(at 227.33 80.01 270)
+		(at 227.33 76.2 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9862,7 +9892,7 @@
 		(dnp no)
 		(uuid "d4b326c0-f8fc-4509-9cbc-aba9cb36bc9b")
 		(property "Reference" "C26"
-			(at 218.948 84.328 90)
+			(at 230.886 84.328 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9873,7 +9903,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 218.948 86.868 90)
+			(at 230.886 86.868 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9884,7 +9914,7 @@
 			)
 		)
 		(property "Footprint" "mouser:CAPPM3216X180N"
-			(at 131.14 88.9 0)
+			(at 131.14 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9896,7 +9926,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.vishay.com/docs/40002/293d.pdf"
-			(at 31.14 88.9 0)
+			(at 31.14 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9908,7 +9938,7 @@
 			)
 		)
 		(property "Description" "Solid Tantalum Surface Mount Chip Capacitors TANTAMOUNT(TM), Molded Case, Standard Industrial Grade"
-			(at 227.33 80.01 0)
+			(at 227.33 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9919,7 +9949,7 @@
 			)
 		)
 		(property "Height" "1.8"
-			(at -168.86 88.9 0)
+			(at -168.86 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9931,7 +9961,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Vishay"
-			(at -268.86 88.9 0)
+			(at -268.86 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9943,7 +9973,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "293D106X0010A2TE3"
-			(at -368.86 88.9 0)
+			(at -368.86 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9955,7 +9985,7 @@
 			)
 		)
 		(property "Mouser Part Number" "74-293D106X0010A2TE3"
-			(at -468.86 88.9 0)
+			(at -468.86 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9967,7 +9997,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-Sprague/293D106X0010A2TE3?qs=wgO0AD0o1vubLsXW58clow%3D%3D"
-			(at -568.86 88.9 0)
+			(at -568.86 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9979,7 +10009,7 @@
 			)
 		)
 		(property "Arrow Part Number" "293D106X0010A2TE3"
-			(at -668.86 88.9 0)
+			(at -668.86 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9991,7 +10021,7 @@
 			)
 		)
 		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/293d106x0010a2te3/vishay?region=nac"
-			(at -768.86 88.9 0)
+			(at -768.86 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10003,7 +10033,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 227.33 80.01 90)
+			(at 227.33 76.2 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10652,7 +10682,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 276.86 71.12 0)
+		(at 276.86 66.04 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10662,7 +10692,7 @@
 		(dnp no)
 		(uuid "faf88f77-27a2-4da1-8e75-ed9d3e44b5f0")
 		(property "Reference" "#PWR028"
-			(at 276.86 74.93 0)
+			(at 276.86 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10673,7 +10703,7 @@
 			)
 		)
 		(property "Value" "+3,3V"
-			(at 278.892 70.104 0)
+			(at 278.892 65.024 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10684,7 +10714,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 276.86 71.12 0)
+			(at 276.86 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10695,7 +10725,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 276.86 71.12 0)
+			(at 276.86 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10706,7 +10736,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 276.86 71.12 0)
+			(at 276.86 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10730,7 +10760,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 227.33 57.15 0)
+		(at 227.33 66.04 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10741,7 +10771,7 @@
 		(fields_autoplaced yes)
 		(uuid "fbb12def-7ac7-4bbd-b757-3e9728d8d3d7")
 		(property "Reference" "#PWR027"
-			(at 227.33 60.96 0)
+			(at 227.33 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10752,7 +10782,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 229.87 55.8799 0)
+			(at 229.87 64.7699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10763,7 +10793,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 227.33 57.15 0)
+			(at 227.33 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10774,7 +10804,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 227.33 57.15 0)
+			(at 227.33 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10785,7 +10815,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 227.33 57.15 0)
+			(at 227.33 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

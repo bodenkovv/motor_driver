@@ -3976,12 +3976,6 @@
 		(uuid "75793389-3b95-4382-a79b-53dd4b972d14")
 	)
 	(junction
-		(at 135.89 59.69)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "79c4e08e-7bce-4c36-b6ae-c4a0c059d4cb")
-	)
-	(junction
 		(at 166.37 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4072,34 +4066,16 @@
 		(uuid "cd142f54-f702-4375-88fe-e0acfc5a8286")
 	)
 	(junction
-		(at 250.19 101.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e1581ce3-cc9e-4f43-96c1-c4de4a4796db")
-	)
-	(junction
 		(at 248.92 120.65)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e9c642bd-570b-400d-a30d-108361178cd9")
 	)
 	(junction
-		(at 160.02 101.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ec67aa20-4f7d-47f5-90cb-3f75460d7dc8")
-	)
-	(junction
 		(at 218.44 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f2ce5892-bd8e-41e2-bdd0-329ee57108cd")
-	)
-	(junction
-		(at 129.54 82.55)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f596f6b6-858e-40f6-aa68-6829317b2384")
 	)
 	(junction
 		(at 205.74 99.06)
@@ -4146,16 +4122,6 @@
 			(type default)
 		)
 		(uuid "0eb82ceb-144f-4b3e-87e7-3995643ada29")
-	)
-	(wire
-		(pts
-			(xy 250.19 101.6) (xy 255.27 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "102d3070-e8e3-47ea-b308-66195360d734")
 	)
 	(wire
 		(pts
@@ -4399,7 +4365,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 82.55) (xy 129.54 83.82)
+			(xy 129.54 81.28) (xy 129.54 83.82)
 		)
 		(stroke
 			(width 0)
@@ -4426,6 +4392,16 @@
 			(type default)
 		)
 		(uuid "5c021584-af59-4140-9d65-a50bf6df954b")
+	)
+	(wire
+		(pts
+			(xy 129.54 83.82) (xy 129.54 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "631e6106-1900-4e58-997c-7432a4698c55")
 	)
 	(wire
 		(pts
@@ -4539,16 +4515,6 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 101.6) (xy 160.02 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7a41742c-1537-45f7-97a1-7a1800a16060")
-	)
-	(wire
-		(pts
 			(xy 53.34 82.55) (xy 53.34 135.89)
 		)
 		(stroke
@@ -4629,16 +4595,6 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 92.71) (xy 120.65 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "88a8c713-32b2-4854-ab5a-946affac0108")
-	)
-	(wire
-		(pts
 			(xy 121.92 113.03) (xy 121.92 116.84)
 		)
 		(stroke
@@ -4656,16 +4612,6 @@
 			(type default)
 		)
 		(uuid "8db2d70e-81a1-48b8-a564-f2ebc558eb5a")
-	)
-	(wire
-		(pts
-			(xy 129.54 81.28) (xy 129.54 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "935fc428-5647-4662-92ed-5926eb5c3ff1")
 	)
 	(wire
 		(pts
@@ -4709,7 +4655,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 95.25) (xy 111.76 95.25)
+			(xy 111.76 95.25) (xy 121.92 95.25)
 		)
 		(stroke
 			(width 0)
@@ -4719,7 +4665,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 59.69) (xy 135.89 59.69)
+			(xy 129.54 59.69) (xy 218.44 59.69)
 		)
 		(stroke
 			(width 0)
@@ -4746,16 +4692,6 @@
 			(type default)
 		)
 		(uuid "a797a33f-2f8f-42d9-b2d3-16927c6167f6")
-	)
-	(wire
-		(pts
-			(xy 120.65 92.71) (xy 121.92 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b30a5053-6649-4f84-b665-a04d50161c3b")
 	)
 	(wire
 		(pts
@@ -4789,16 +4725,6 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 59.69) (xy 218.44 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ba7eb779-8d1f-4a78-8381-585b1b735703")
-	)
-	(wire
-		(pts
 			(xy 74.93 100.33) (xy 81.28 100.33)
 		)
 		(stroke
@@ -4819,7 +4745,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 101.6) (xy 250.19 101.6)
+			(xy 241.3 101.6) (xy 255.27 101.6)
 		)
 		(stroke
 			(width 0)
@@ -4879,7 +4805,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 101.6) (xy 166.37 101.6)
+			(xy 152.4 101.6) (xy 166.37 101.6)
 		)
 		(stroke
 			(width 0)
@@ -4936,16 +4862,6 @@
 			(type default)
 		)
 		(uuid "f160c0f8-7522-4abb-92a4-cdba935d8d37")
-	)
-	(wire
-		(pts
-			(xy 129.54 97.79) (xy 129.54 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f55131bf-2b96-4343-9a14-ef6fd6d60d46")
 	)
 	(wire
 		(pts
@@ -6362,95 +6278,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 160.02 101.6 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "326a6c26-1eab-4ee4-bcd6-3c17e9647366")
-		(property "Reference" "TP6"
-			(at 161.29 103.632 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 154.178 106.68 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Connector_Pin:Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork"
-			(at 154.94 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 154.94 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 160.02 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 160.02 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "02c0dac6-45ae-43ff-89d0-a94cb3d2d16f")
-		)
-		(instances
-			(project "dz11"
-				(path "/044c0f0c-3b03-4e75-9a19-cde2251c7dfa/c029e2ac-a960-468a-a767-0922dbeb17e0"
-					(reference "TP6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "New_Library:IRFR7546TRPBF")
 		(at 210.82 93.98 0)
 		(unit 1)
@@ -6699,7 +6526,7 @@
 	)
 	(symbol
 		(lib_id "New_Library:IRFR7546TRPBF")
-		(at 121.92 92.71 0)
+		(at 121.92 95.25 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6710,17 +6537,6 @@
 		(fields_autoplaced yes)
 		(uuid "49cae6f3-891a-4a7a-9457-eee68e0cc09b")
 		(property "Reference" "Q4"
-			(at 133.35 88.8999 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "IRFR7546TRPBF"
 			(at 133.35 91.4399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6731,8 +6547,19 @@
 				(justify left)
 			)
 		)
+		(property "Value" "IRFR7546TRPBF"
+			(at 133.35 93.9799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(property "Footprint" "mouser:IRFR7546TRPBF"
-			(at 133.35 191.44 0)
+			(at 133.35 193.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6744,7 +6571,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.infineon.com/dgdl/Infineon-IRFR7546-DataSheet-v01_01-EN.pdf?fileId=5546d462533600a401535635b9b3211f"
-			(at 133.35 291.44 0)
+			(at 133.35 293.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6756,7 +6583,7 @@
 			)
 		)
 		(property "Description" "N-Channel 60 V 56A (Tc) 99W (Tc) Surface Mount DPAK"
-			(at 121.92 92.71 0)
+			(at 121.92 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6767,7 +6594,7 @@
 			)
 		)
 		(property "Height" "2.52"
-			(at 133.35 491.44 0)
+			(at 133.35 493.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6779,7 +6606,7 @@
 			)
 		)
 		(property "Mouser Part Number" "942-IRFR7546TRPBF"
-			(at 133.35 591.44 0)
+			(at 133.35 593.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6791,7 +6618,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Infineon-IR/IRFR7546TRPBF?qs=NBFAU1oqP4VxNaQV6oj2cA%3D%3D"
-			(at 133.35 691.44 0)
+			(at 133.35 693.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6803,7 +6630,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Infineon"
-			(at 133.35 791.44 0)
+			(at 133.35 793.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6815,7 +6642,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "IRFR7546TRPBF"
-			(at 133.35 891.44 0)
+			(at 133.35 893.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6827,7 +6654,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 121.92 92.71 0)
+			(at 121.92 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7928,95 +7755,6 @@
 			(project "dz11"
 				(path "/044c0f0c-3b03-4e75-9a19-cde2251c7dfa/c029e2ac-a960-468a-a767-0922dbeb17e0"
 					(reference "TP5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 250.19 101.6 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "9204edee-8c4a-4786-ac18-043548680107")
-		(property "Reference" "TP7"
-			(at 251.46 103.632 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 246.126 106.68 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Connector_Pin:Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork"
-			(at 245.11 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 245.11 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 250.19 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 250.19 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "2249a084-ef31-45be-8c72-422ea3d9037b")
-		)
-		(instances
-			(project "dz11"
-				(path "/044c0f0c-3b03-4e75-9a19-cde2251c7dfa/c029e2ac-a960-468a-a767-0922dbeb17e0"
-					(reference "TP7")
 					(unit 1)
 				)
 			)
@@ -10838,95 +10576,6 @@
 			(project "dz11"
 				(path "/044c0f0c-3b03-4e75-9a19-cde2251c7dfa/c029e2ac-a960-468a-a767-0922dbeb17e0"
 					(reference "R8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 135.89 59.69 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "f7b5bc8a-b39c-4d94-a2ef-237b8038d904")
-		(property "Reference" "TP4"
-			(at 137.16 61.722 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 133.604 65.278 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Connector_Pin:Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork"
-			(at 130.81 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 130.81 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 135.89 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 135.89 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "cccdaef3-959a-4f26-9c78-4868f5eab6f2")
-		)
-		(instances
-			(project "dz11"
-				(path "/044c0f0c-3b03-4e75-9a19-cde2251c7dfa/c029e2ac-a960-468a-a767-0922dbeb17e0"
-					(reference "TP4")
 					(unit 1)
 				)
 			)
