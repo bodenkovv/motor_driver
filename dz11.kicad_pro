@@ -147,11 +147,11 @@
       "rules": {
         "max_error": 0.005,
         "min_clearance": 0.2,
-        "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.5,
+        "min_connection": 0.1,
+        "min_copper_edge_clearance": 0.2,
         "min_groove_width": 0.0,
-        "min_hole_clearance": 0.25,
-        "min_hole_to_hole": 0.25,
+        "min_hole_clearance": 0.2,
+        "min_hole_to_hole": 0.2,
         "min_microvia_diameter": 0.2,
         "min_microvia_drill": 0.1,
         "min_resolved_spokes": 2,
@@ -211,7 +211,6 @@
       ],
       "track_widths": [
         0.0,
-        0.1,
         0.15,
         0.2,
         0.25,
@@ -238,7 +237,7 @@
           "max_amplitude": 1.0,
           "min_amplitude": 0.2,
           "single_sided": false,
-          "spacing": 0.6
+          "spacing": 0.5
         },
         "single_track_defaults": {
           "corner_radius_percentage": 80,
@@ -246,7 +245,7 @@
           "max_amplitude": 1.0,
           "min_amplitude": 0.2,
           "single_sided": false,
-          "spacing": 0.6
+          "spacing": 0.5
         }
       },
       "via_dimensions": [
@@ -519,7 +518,7 @@
     "classes": [
       {
         "bus_width": 8,
-        "clearance": 0.25,
+        "clearance": 0.15,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.25,
@@ -538,7 +537,7 @@
       },
       {
         "bus_width": 4,
-        "clearance": 0.25,
+        "clearance": 0.15,
         "diff_pair_gap": 0.25,
         "diff_pair_width": 0.25,
         "microvia_diameter": 0.3,
@@ -562,7 +561,7 @@
       },
       {
         "bus_width": 4,
-        "clearance": 0.25,
+        "clearance": 0.15,
         "diff_pair_gap": 0.25,
         "diff_pair_width": 0.25,
         "name": "Diff",
@@ -591,7 +590,7 @@
       },
       {
         "bus_width": 12,
-        "clearance": 0.5,
+        "clearance": 0.2,
         "name": "HighCurrent",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
